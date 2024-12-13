@@ -1,0 +1,45 @@
+-------- Link Scraper -------
+Base URL:
+https://www.bkn.go.id/category/publikasi/berita/
+https://www.bkn.go.id/regulasi/ 
+
+Link Selector (CSS)
+div.blog-entry-readmore.entry-readmore-wrap.wpex-my-15.wpex-clr a
+div.wpb_wrapper a.vcex-button.theme-button.inline
+
+Pagination URL (optional)
+https://www.bkn.go.id/category/publikasi/berita/page/{page_number}/
+https://www.bkn.go.id/regulasi/page/{page_number}/
+
+Next Button Selector (optional)
+-
+
+Max Pages
+3
+3
+
+
+--------- PDF Scrapper --------
+CSV File Path
+/Users/muhammad.galih/Documents/streamlit/output/links/2024-12-09-17:52_www.bkn.go.id_links.csv
+
+Output Folder
+/Users/muhammad.galih/Documents/streamlit/output/pdfs
+
+
+--------- WARC Scraper ---------
+CSV File Path
+/Users/muhammad.galih/Documents/streamlit/output/links/2024-12-09-16:48_www.bkn.go.id_links.csv
+
+Output Folder
+/Users/muhammad.galih/Documents/streamlit/output/warc
+
+
+--------- Token Estimator ----------
+File Path
+/Users/muhammad.galih/Documents/streamlit/output/warc/tes
+/Users/muhammad.galih/Documents/streamlit/output/pdfs
+
+File Type
+WARC
+PDF
