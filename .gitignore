@@ -1,3 +1,4 @@
 output/links/*
 output/pdfs/*
 output/warc/*
+__pycache__/*

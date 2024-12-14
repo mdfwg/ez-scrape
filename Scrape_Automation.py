@@ -55,8 +55,8 @@ with tab2:
 with tab3:
     st.header("WARC Scrapper")
     
-    csv_file = st.text_input("CSV File Path", "", key="warc_scraper_csv_file", placeholder="C:/path/to/urls.csv")
-    output_folder = st.text_input("Output Folder", "", key="warc_scraper_output_folder", placeholder="output/warcs")
+    csv_file = st.text_input("Path (CSV File Path or Folder Contains CSV)", "", key="warc_scraper_csv_file", placeholder="C:/path/to/urls.csv or folder")
+    output_folder = st.text_input("Output Folder", "", key="warc_scraper_output_folder", placeholder="output/warc")
     
     if st.button("Run WARC Downloader", key="run_warc_scraper"):
 

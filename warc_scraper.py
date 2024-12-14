@@ -70,12 +70,12 @@ def save_website_to_warc(url, driver, output_folder):
 def filename(url):
     return url.split('//')[-1].replace('/', '_').replace(':', '_')
 
-logging.basicConfig(filename='scraping_errors.log', level=logging.ERROR, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(filename='warc_scraping_error.log', level=logging.ERROR, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(filename='warc_scraping_info.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def scrape_from_list(link_list, output_folder, catname):
     options = Options()
     options.add_experimental_option("detach", True)
-    # options.add_argument("--headless")
 
     driver = webdriver.Chrome(options=options)
     os.makedirs(output_folder, exist_ok=True)
@@ -86,11 +86,20 @@ def scrape_from_list(link_list, output_folder, catname):
             
     driver.quit()
 
-def warcscrappermain(csv_path, output_folder='/Users/muhammad.galih/Documents/streamlit/output/warc'):
+def warcscrappermain(path, output_folder='/Users/muhammad.galih/Documents/streamlit/output/warc'):
     os.makedirs(output_folder, exist_ok=True)
 
-    with open(csv_path, 'r') as f:
-        reader = csv.reader(f)
-        next(reader)
-        link_list = [row[0] for row in reader]
-    scrape_from_list(link_list=link_list, output_folder=output_folder, catname=csv_path.split('/')[-1])
+    if path.endswith('.csv'):
+        with open(path, 'r') as f:
+            reader = csv.reader(f)
+            next(reader)
+            link_list = [row[0] for row in reader]
+        scrape_from_list(link_list=link_list, output_folder=output_folder, catname=path.split('/')[-1])
+    else:
+        csv_list = [f for f in os.listdir(path) if f.endswith('.csv')]
+        for csv_file in csv_list:
+            with open(os.path.join(path, csv_file), 'r') as f:
+                reader = csv.reader(f)
+                next(reader)
+                link_list = [row[0] for row in reader]
+            scrape_from_list(link_list=link_list, output_folder=output_folder, catname=csv_file)
