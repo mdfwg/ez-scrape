@@ -2,3 +2,5 @@ output/links/*
 output/pdfs/*
 output/warc/*
 __pycache__/*
+*.log
+__pycache__/*
