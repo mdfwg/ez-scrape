@@ -1,9 +1,7 @@
 import os
 import streamlit as st
 import logging
-import time
 import pandas as pd
-from datetime import datetime
 
 from helper_functions.link_scrapper import scrapelinksmain
 from helper_functions.warc_scraper import warcscrappermain
@@ -12,31 +10,20 @@ from helper_functions.token_est import estimate_tokens_in_pdf, estimate_tokens_i
 from helper_functions.compress_file import compress_pdfs_to_zip, compress_warcs_to_warcgz
 from helper_functions.dashboard import get_project_stats, get_detailed_project_data
 
-# import torch
-# import transformers
-
-# ---------------------------- Logging Setup ----------------------------
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# ---------------------------- Streamlit App ----------------------------
 st.title("Scrape Automation and Token Estimator")
 
-# Root output directory
 output_root = "output"
 
-# Ensure the output folder exists
 if not os.path.exists(output_root):
     os.makedirs(output_root)
 
-# ---------------------------- Project Management ----------------------------
-# Get list of top-level projects (directories in output)
 projects = [project for project in os.listdir(output_root) if os.path.isdir(os.path.join(output_root, project))]
 
-# ---------------------------- Sidebar for Project Management ----------------------------
 with st.sidebar:
     st.header("Project Management")
     
-    # Initialize session state for tracking new project/subproject creation
     if 'creating_project' not in st.session_state:
         st.session_state.creating_project = False
     if 'creating_subproject' not in st.session_state:
@@ -46,16 +33,13 @@ with st.sidebar:
     if 'current_subproject' not in st.session_state:
         st.session_state.current_subproject = None
 
-    # Project management
     project_name = st.selectbox("Select Project", ["--Select a Project--"] + projects, key="project_selector")
 
-    # Project selection confirmation
     if project_name != "--Select a Project--":
         if st.button("Confirm Project Selection"):
             st.session_state.current_project = project_name
             st.success(f"Project '{project_name}' selected.")
 
-    # New Project Creation
     if not st.session_state.creating_project:
         if st.button("Add New Project"):
             st.session_state.creating_project = True
@@ -159,8 +143,8 @@ with tab1:
     max_pages = st.number_input("Max Pages", min_value=1, value=1, key="link_scraper_max_pages")
     
     # New Options for Scroll/Load More
-    scroll_to_load_more = st.checkbox("Scroll to Load More Content", key="scroll_to_load_more")
-    load_more_button_selector = st.text_input("Load More Button Selector (optional)", "", key="load_more_button_selector", placeholder="button.load-more")
+    # scroll_to_load_more = st.checkbox("Scroll to Load More Content", key="scroll_to_load_more")
+    # load_more_button_selector = st.text_input("Load More Button Selector (optional)", "", key="load_more_button_selector", placeholder="button.load-more")
     
     # Ensure the correct 'links' folder path exists within the selected project and subproject
     if st.session_state.current_project and st.session_state.current_subproject:
@@ -175,8 +159,8 @@ with tab1:
             pagination_url=pagination_url,
             next_button_selector=next_button_selector,
             max_pages=max_pages,
-            scroll_to_load_more=scroll_to_load_more,
-            load_more_button_selector=load_more_button_selector
+            # scroll_to_load_more=scroll_to_load_more,
+            # load_more_button_selector=load_more_button_selector
         )
         
         # Static filename for links.csv (since you're using a fixed filename)
@@ -394,4 +378,4 @@ with tab7:
     df.set_index(["Project Name", "Subproject Name"], inplace=True)
 
     # Display the table
-    st.table(df)
+    # st.table(df)

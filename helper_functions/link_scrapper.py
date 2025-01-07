@@ -191,7 +191,7 @@ def scrapelinksmain(project_folder, base_url, link_selector, pagination_url=None
             link_selector=link_selector, 
             next_button_selector=next_button_selector, 
             max_pages=max_pages,
-            scroll_to_load_more=scroll_to_load_more,
+            scroll_to_load_more=False,
             load_more_button_selector=load_more_button_selector
         )
         

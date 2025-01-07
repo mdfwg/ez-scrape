@@ -4,23 +4,12 @@ import shutil
 import logging
 
 def compress_pdfs_to_zip(pdf_dir, description, output_dir):
-    """
-    Compress PDFs from the specified directory into a ZIP archive.
-    
-    Parameters:
-    - pdf_dir: Directory containing the PDF files.
-    - description: User-provided description for the ZIP archive name.
-    - output_dir: Directory where the ZIP archive will be saved.
-
-    Returns:
-    - zip_path: Path to the created ZIP file.
-    """
     try:
         # Ensure the output directory exists
         os.makedirs(output_dir, exist_ok=True)
 
         # Generate ZIP file name
-        zip_file_name = f"Zeus_{description}_pdf_files.zip"
+        zip_file_name = f"Apollo_{description}_pdf_files.zip"
         zip_path = os.path.join(output_dir, zip_file_name)
         
         # Create the ZIP file and add PDFs
@@ -38,23 +27,12 @@ def compress_pdfs_to_zip(pdf_dir, description, output_dir):
         return None
 
 def compress_warcs_to_warcgz(warc_dir, description, output_dir):
-    """
-    Compress WARCs from the specified directory into a single .warc.gz file.
-    
-    Parameters:
-    - warc_dir: Directory containing the WARC files.
-    - description: User-provided description for the output WARC.GZ file name.
-    - output_dir: Directory where the WARC.GZ archive will be saved.
-
-    Returns:
-    - gz_path: Path to the created WARC.GZ file.
-    """
     try:
         # Ensure the output directory exists
         os.makedirs(output_dir, exist_ok=True)
 
         # Generate output file name
-        gz_file_name = f"Zeus_{description}_warc_combined.warc.gz"
+        gz_file_name = f"Apollo_{description}_warc_combined.warc.gz"
         gz_path = os.path.join(output_dir, gz_file_name)
 
         with open(gz_path, 'wb') as output_file:
