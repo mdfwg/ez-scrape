@@ -1,0 +1,1114 @@
+WARC/1.0
+WARC-Type: request
+WARC-Record-ID: <urn:uuid:9fbc5ec2-88bf-453d-a4e4-1e90ad47ce2c>
+WARC-Target-URI: https://www.bkn.go.id/bkn-telah-akreditasi-14-lembaga-penyelenggara-penilaian-kompetensi-tahun-2024/
+WARC-Date: 2024-12-17T19:15:02Z
+WARC-IP-Address: 103.170.104.132
+WARC-Payload-Digest: sha1:3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+WARC-Block-Digest: sha1:FLLNEXUQSM52PANJSR6PSAYOVSN3U5GH
+Content-Type: application/http; msgtype=request
+Content-Length: 254
+
+GET / HTTP/1.1
+Host: www.bkn.go.id
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:5b324876-85a0-4d2c-93e3-a07ca5a8f942>
+WARC-Target-URI: https://www.bkn.go.id/bkn-telah-akreditasi-14-lembaga-penyelenggara-penilaian-kompetensi-tahun-2024/
+WARC-Date: 2024-12-17T19:15:02Z
+WARC-Concurrent-To: <urn:uuid:9fbc5ec2-88bf-453d-a4e4-1e90ad47ce2c>
+WARC-IP-Address: 103.170.104.132
+WARC-Payload-Digest: sha1:JVOS2VKHX2MFF6P75O4OVZSUXLM63LDL
+WARC-Block-Digest: sha1:SNBL2CFD4U3GGRT3FKX3LZ3KD4HYM5QO
+Content-Type: application/http; msgtype=response
+Content-Length: 130468
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Server: nginx/1.18.0 (Ubuntu)
+Connection: keep-alive
+
+<html lang="en-US" itemscope="" itemtype="https://schema.org/WebPage"><head>
+<meta charset="UTF-8">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<script src="https://embed.tawk.to/_s/v4/app/67354992019/js/twk-main.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/67354992019/js/twk-vendor.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/67354992019/js/twk-chunk-vendors.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/67354992019/js/twk-chunk-common.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/67354992019/js/twk-runtime.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/67354992019/js/twk-app.js" charset="UTF-8" crossorigin="*"></script><script async="" src="https://embed.tawk.to/66b042fc32dca6db2cb9fcee/1i4g8bau4" charset="UTF-8" crossorigin="*"></script><script id="google_gtagjs-js-consent-mode-data-layer">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('consent', 'default', {"ad_personalization":"denied","ad_storage":"denied","ad_user_data":"denied","analytics_storage":"denied","functionality_storage":"denied","security_storage":"denied","personalization_storage":"denied","region":["AT","BE","BG","CH","CY","CZ","DE","DK","EE","ES","FI","FR","GB","GR","HR","HU","IE","IS","IT","LI","LT","LU","LV","MT","NL","NO","PL","PT","RO","SE","SI","SK"],"wait_for_update":500});
+window._googlesitekitConsentCategoryMap = {"statistics":["analytics_storage"],"marketing":["ad_storage","ad_user_data","ad_personalization"],"functional":["functionality_storage","security_storage"],"preferences":["personalization_storage"]};
+window._googlesitekitConsents = {"ad_personalization":"denied","ad_storage":"denied","ad_user_data":"denied","analytics_storage":"denied","functionality_storage":"denied","security_storage":"denied","personalization_storage":"denied","region":["AT","BE","BG","CH","CY","CZ","DE","DK","EE","ES","FI","FR","GB","GR","HR","HU","IE","IS","IT","LI","LT","LU","LV","MT","NL","NO","PL","PT","RO","SE","SI","SK"],"wait_for_update":500};
+</script>
+
+
+	
+	<title>BKN telah Akreditasi 14 Lembaga Penyelenggara Penilaian Kompetensi Tahun 2024 - Badan Kepegawaian Negara (BKN RI)</title>
+	<meta name="description" content="Jakarta – Humas BKN, Badan Kepegawaian Negara (BKN) melalui Pusat Penilaian Kompetensi (Puspenkom) ASN telah mengakreditasi 14 (empat belas) instansi penyelenggara penilaian kompetensi yang terdiri dari Kementerian/ Lembaga dan Perguruan Tinggi Negeri pada tahun 2024. Program akreditasi ini bertujuan agar metode penilaian kompetensi ASN di seluruh Indonesia memiliki standar yang sama sekaligus mendorong percepatan pembangunan manajemen talenta ASN bersamaan dengan pembentukan Kabinet Merah Putih Periode Tahun 2024-2029. Plt Kepala BKN Haryomo Dwi Putranto mengungkapkan bahwa saat ini sudah banyak instansi pemerintah yang menjalankan penilaian kompetensi. Namun dalam pelaksanaannya seringkali instansi menjalankan penilaian dengan standarnya masing-masing. Hal itu menurutnya menyebabkan pola pelaksanaan penilaian kompetensi menjadi beragam dan kurang mengarah kepada satu standar yang baku. “Standarisasi melalui akreditasi perlu dilakukan untuk menjamin kualitas hasil penilaian kompetensi dilaksanakan oleh Penyelenggara yang memang benar-benar layak, akuntabel, dan hasilnya dapat dimanfaatkan oleh Instansi Pengguna,” terangnya di tengah Rapat Koordinasi Percepatan Pembangunan Manajemen Talenta ASN dalam Mendukung Kabinet Merah Putih, Rabu (30/10/2024) di kawasan Jakarta. Menurut…">
+	<link rel="canonical" href="https://www.bkn.go.id/bkn-telah-akreditasi-14-lembaga-penyelenggara-penilaian-kompetensi-tahun-2024/">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="BKN telah Akreditasi 14 Lembaga Penyelenggara Penilaian Kompetensi Tahun 2024 - Badan Kepegawaian Negara (BKN RI)">
+	<meta property="og:description" content="Jakarta – Humas BKN, Badan Kepegawaian Negara (BKN) melalui Pusat Penilaian Kompetensi (Puspenkom) ASN telah mengakreditasi 14 (empat belas) instansi penyelenggara penilaian kompetensi yang terdiri dari Kementerian/ Lembaga dan Perguruan Tinggi Negeri pada tahun 2024. Program akreditasi ini bertujuan agar metode penilaian kompetensi ASN di seluruh Indonesia memiliki standar yang sama sekaligus mendorong percepatan pembangunan…">
+	<meta property="og:url" content="https://www.bkn.go.id/bkn-telah-akreditasi-14-lembaga-penyelenggara-penilaian-kompetensi-tahun-2024/">
+	<meta property="og:site_name" content="Badan Kepegawaian Negara (BKN RI)">
+	<meta property="article:publisher" content="https://www.facebook.com/BKNgoid/">
+	<meta property="article:published_time" content="2024-10-31T04:35:40+00:00">
+	<meta property="og:image" content="https://www.bkn.go.id/unggahan/2024/10/1-6.png">
+	<meta property="og:image:width" content="940">
+	<meta property="og:image:height" content="627">
+	<meta property="og:image:type" content="image/png">
+	<meta name="author" content="Radit">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:creator" content="@BKNgoid">
+	<meta name="twitter:site" content="@BKNgoid">
+	<meta name="twitter:label1" content="Written by">
+	<meta name="twitter:data1" content="Radit">
+	<meta name="twitter:label2" content="Est. reading time">
+	<meta name="twitter:data2" content="2 minutes">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://www.bkn.go.id/bkn-telah-akreditasi-14-lembaga-penyelenggara-penilaian-kompetensi-tahun-2024/#article","isPartOf":{"@id":"https://www.bkn.go.id/bkn-telah-akreditasi-14-lembaga-penyelenggara-penilaian-kompetensi-tahun-2024/"},"author":{"name":"Radit","@id":"https://www.bkn.go.id/#/schema/person/e3a6b4aba80f6f2bc3d80ff4be847ff5"},"headline":"BKN telah Akreditasi 14 Lembaga Penyelenggara Penilaian Kompetensi Tahun 2024","datePublished":"2024-10-31T04:35:40+00:00","dateModified":"2024-10-31T04:35:40+00:00","mainEntityOfPage":{"@id":"https://www.bkn.go.id/bkn-telah-akreditasi-14-lembaga-penyelenggara-penilaian-kompetensi-tahun-2024/"},"wordCount":490,"publisher":{"@id":"https://www.bkn.go.id/#organization"},"image":{"@id":"https://www.bkn.go.id/bkn-telah-akreditasi-14-lembaga-penyelenggara-penilaian-kompetensi-tahun-2024/#primaryimage"},"thumbnailUrl":"https://www.bkn.go.id/unggahan/2024/10/1-6.png","articleSection":["Berita","Publikasi"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.bkn.go.id/bkn-telah-akreditasi-14-lembaga-penyelenggara-penilaian-kompetensi-tahun-2024/","url":"https://www.bkn.go.id/bkn-telah-akreditasi-14-lembaga-penyelenggara-penilaian-kompetensi-tahun-2024/","name":"BKN telah Akreditasi 14 Lembaga Penyelenggara Penilaian Kompetensi Tahun 2024 - Badan Kepegawaian Negara (BKN RI)","isPartOf":{"@id":"https://www.bkn.go.id/#website"},"primaryImageOfPage":{"@id":"https://www.bkn.go.id/bkn-telah-akreditasi-14-lembaga-penyelenggara-penilaian-kompetensi-tahun-2024/#primaryimage"},"image":{"@id":"https://www.bkn.go.id/bkn-telah-akreditasi-14-lembaga-penyelenggara-penilaian-kompetensi-tahun-2024/#primaryimage"},"thumbnailUrl":"https://www.bkn.go.id/unggahan/2024/10/1-6.png","datePublished":"2024-10-31T04:35:40+00:00","dateModified":"2024-10-31T04:35:40+00:00","breadcrumb":{"@id":"https://www.bkn.go.id/bkn-telah-akreditasi-14-lembaga-penyelenggara-penilaian-kompetensi-tahun-2024/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.bkn.go.id/bkn-telah-akreditasi-14-lembaga-penyelenggara-penilaian-kompetensi-tahun-2024/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.bkn.go.id/bkn-telah-akreditasi-14-lembaga-penyelenggara-penilaian-kompetensi-tahun-2024/#primaryimage","url":"https://www.bkn.go.id/unggahan/2024/10/1-6.png","contentUrl":"https://www.bkn.go.id/unggahan/2024/10/1-6.png","width":940,"height":627},{"@type":"BreadcrumbList","@id":"https://www.bkn.go.id/bkn-telah-akreditasi-14-lembaga-penyelenggara-penilaian-kompetensi-tahun-2024/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.bkn.go.id/"},{"@type":"ListItem","position":2,"name":"Publikasi","item":"https://www.bkn.go.id/publikasi/"},{"@type":"ListItem","position":3,"name":"BKN telah Akreditasi 14 Lembaga Penyelenggara Penilaian Kompetensi Tahun 2024"}]},{"@type":"WebSite","@id":"https://www.bkn.go.id/#website","url":"https://www.bkn.go.id/","name":"Badan Kepegawaian Negara (BKN RI)","description":"Profesional &amp; Berintegritas","publisher":{"@id":"https://www.bkn.go.id/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.bkn.go.id/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.bkn.go.id/#organization","name":"Badan Kepegawaian Negara","url":"https://www.bkn.go.id/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.bkn.go.id/#/schema/logo/image/","url":"https://www.bkn.go.id/unggahan/2021/08/Logo-BKN-Website.png","contentUrl":"https://www.bkn.go.id/unggahan/2021/08/Logo-BKN-Website.png","width":215,"height":65,"caption":"Badan Kepegawaian Negara"},"image":{"@id":"https://www.bkn.go.id/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/BKNgoid/","https://x.com/BKNgoid"]},{"@type":"Person","@id":"https://www.bkn.go.id/#/schema/person/e3a6b4aba80f6f2bc3d80ff4be847ff5","name":"Radit","sameAs":["https://www.bkn.go.id/"],"url":"https://www.bkn.go.id/author/raditya-abdurrafi/"}]}</script>
+	
+
+
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+<link rel="alternate" type="application/rss+xml" title="Badan Kepegawaian Negara (BKN RI) » Comments Feed" href="https://www.bkn.go.id/comments/feed/">
+<link rel="stylesheet" id="js_composer_front-css" href="https://www.bkn.go.id/modules/041dc5d622/assets/css/js_composer.min.css" media="all">
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="sticky-social-icons-css" href="https://www.bkn.go.id/modules/177adf98be/public/assets/build/css/sticky-social-icons-public.css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" media="all">
+<link rel="stylesheet" id="wpex-style-css" href="https://www.bkn.go.id/BKN-RI/cfdf07b5f4/gaya-bkn.css" media="all">
+<link rel="stylesheet" id="wpex-mobile-menu-breakpoint-max-css" href="https://www.bkn.go.id/BKN-RI/cfdf07b5f4/assets/css/wpex-mobile-menu-breakpoint-max.css" media="only screen and (max-width:959px)">
+<link rel="stylesheet" id="wpex-mobile-menu-breakpoint-min-css" href="https://www.bkn.go.id/BKN-RI/cfdf07b5f4/assets/css/wpex-mobile-menu-breakpoint-min.css" media="only screen and (min-width:960px)">
+<link rel="stylesheet" id="wpex-wpbakery-css" href="https://www.bkn.go.id/BKN-RI/cfdf07b5f4/assets/css/wpex-wpbakery.css" media="all">
+<link rel="stylesheet" id="ticons-css" href="https://www.bkn.go.id/BKN-RI/cfdf07b5f4/assets/lib/ticons/css/ticons.min.css" media="all">
+<link rel="stylesheet" id="vcex-shortcodes-css" href="https://www.bkn.go.id/BKN-RI/cfdf07b5f4/assets/css/vcex-shortcodes.css" media="all">
+<script src="https://www.bkn.go.id/lib/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script src="https://www.bkn.go.id/lib/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+
+
+
+
+<script src="https://www.googletagmanager.com/gtag/js?id=GT-PBS84WJ" id="google_gtagjs-js" async=""></script>
+<script id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["www.bkn.go.id"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-PBS84WJ");
+</script>
+
+
+<link rel="shortlink" href="https://www.bkn.go.id/?p=118075">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.bkn.go.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bkn.go.id%2Fbkn-telah-akreditasi-14-lembaga-penyelenggara-penilaian-kompetensi-tahun-2024%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.bkn.go.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bkn.go.id%2Fbkn-telah-akreditasi-14-lembaga-penyelenggara-penilaian-kompetensi-tahun-2024%2F&amp;format=xml">
+<style id="sticky-social-icons-styles">#sticky-social-icons-container{top: 80px}#sticky-social-icons-container li a{font-size: 20px; width: 40px; height:48px; }#sticky-social-icons-container.with-animation li a:hover{width: 50px; }#sticky-social-icons-container li a.fab-fa-twitter{color: #fff; background: #00bde24d; }#sticky-social-icons-container li a.fab-fa-twitter:hover{color: #fff; background: #0097ce; }#sticky-social-icons-container li a.fab-fa-facebook-f{color: #fff; background: #1e73be4d; }#sticky-social-icons-container li a.fab-fa-facebook-f:hover{color: #fff; background: #194da8; }#sticky-social-icons-container li a.fab-fa-youtube{color: #fff; background: #e51b1b4d; }#sticky-social-icons-container li a.fab-fa-youtube:hover{color: #fff; background: #c41717; }#sticky-social-icons-container li a.fab-fa-instagram{color: #fff; background: #c54fda4d; }#sticky-social-icons-container li a.fab-fa-instagram:hover{color: #fff; background: #ae78e8; }#sticky-social-icons-container li a.fab-fa-tiktok{color: #ffffff; background: #00000040; }#sticky-social-icons-container li a.fab-fa-tiktok:hover{color: #ffffff; background: #000000; }@media( max-width: 415px ){#sticky-social-icons-container li a{font-size: 17px; width: 34px; height:40.8px; }}</style>
+<link rel="icon" href="https://www.bkn.go.id/unggahan/2024/04/favicon32.png" sizes="32x32"><link rel="shortcut icon" href="https://www.bkn.go.id/unggahan/2024/04/favicon32.png"><link rel="apple-touch-icon" href="https://www.bkn.go.id/unggahan/2024/04/favicon57.png" sizes="57x57"><link rel="apple-touch-icon" href="https://www.bkn.go.id/unggahan/2024/04/favicon76.png" sizes="76x76"><link rel="apple-touch-icon" href="https://www.bkn.go.id/unggahan/2024/04/favicon120.png" sizes="120x120"><link rel="apple-touch-icon" href="https://www.bkn.go.id/unggahan/2024/04/favicon152.png" sizes="114x114"><link rel="preload" href="https://www.bkn.go.id/unggahan/2023/11/1-Transparan-Logo.png" as="image"><link rel="preload" href="https://www.bkn.go.id/unggahan/2023/11/1-Transparan-Logo.png" as="image"><link rel="preload" href="https://www.bkn.go.id/BKN-RI/cfdf07b5f4/assets/lib/ticons/fonts/ticons.woff2" type="font/woff2" as="font" crossorigin=""><noscript><style>body .wpex-vc-row-stretched,body .vc_row-o-full-height{visibility:visible;}</style></noscript><script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";					
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><style data-type="wpex-css" id="wpex-css">/*ACCENT COLOR*/.vc_toggle_total .vc_toggle_title,.wpex-text-accent,.wpex-hover-text-accent:hover,.wpex-accent-color,#site-navigation .dropdown-menu >li.menu-item >a:hover,#site-navigation .dropdown-menu >li.menu-item.current-menu-item >a,#site-navigation .dropdown-menu >li.menu-item.current-menu-parent >a,.modern-menu-widget a:hover,.theme-button.outline,.theme-button.clean,a,h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,.entry-title a:hover,.meta a:hover,.wpex-heading a:hover,.vcex-module a:hover .wpex-heading,.vcex-icon-box-link-wrap:hover .wpex-heading{color:#26ccd4}.wpex-bg-accent,.wpex-hover-bg-accent:hover,.wpex-bg-accent_alt,.wpex-hover-bg-accent_alt:hover,.wpex-badge,.wpex-accent-bg,input[type="submit"],.theme-button,button,.button,.active >.theme-button,.theme-button.active,.theme-button.outline:hover,.active >.theme-button.outline,.theme-button.outline.active,.theme-button.outline:hover,.post-edit a,.background-highlight,.tagcloud a:hover,.post-tags a:hover,.wpex-carousel .owl-dot.active,.wpex-carousel .owl-prev,.wpex-carousel .owl-next,body #header-two-search #header-two-search-submit,#site-navigation .menu-button >a >span.link-inner,.modern-menu-widget li.menu-item.current-menu-item a,#sidebar .widget_nav_menu .current-menu-item >a,.widget_nav_menu_accordion .widget_nav_menu li.menu-item.current-menu-item >a,#site-navigation-wrap.has-menu-underline .main-navigation-ul>li>a>.link-inner::after,#wp-calendar caption,#wp-calendar tbody td:hover a,.vcex-testimonials-fullslider .sp-button:hover,.vcex-testimonials-fullslider .sp-selected-button,.vcex-testimonials-fullslider.light-skin .sp-button:hover,.vcex-testimonials-fullslider.light-skin .sp-selected-button,.vcex-testimonials-fullslider .sp-button.sp-selected-button,.vcex-testimonials-fullslider .sp-button:hover{background-color:#26ccd4}.wpb_tabs.tab-style-alternative-two .wpb_tabs_nav li.ui-tabs-active a{border-bottom-color:#26ccd4}.wpex-border-accent{border-color:#26ccd4}.wpex-hover-border-accent:hover{border-color:#26ccd4}.wpex-slider .sp-bottom-thumbnails.sp-has-pointer .sp-selected-thumbnail:before,.wpex-slider .sp-bottom-thumbnails.sp-has-pointer .sp-selected-thumbnail:after{border-bottom-color:#26ccd4}.theme-button.outline{border-color:#26ccd4}.wpex-dropdown-top-border #site-navigation .dropdown-menu li.menu-item ul.sub-menu{border-top-color:#26ccd4}.theme-heading.border-w-color span.text{border-bottom-color:#26ccd4}/*ACCENT HOVER COLOR*/.wpex-bg-accent_alt,.wpex-hover-bg-accent_alt:hover,.post-edit a:hover,.theme-button:hover,input[type="submit"]:hover,button:hover,.button:hover,.active >.theme-button,.theme-button.active,.wpex-carousel .owl-prev:hover,.wpex-carousel .owl-next:hover,#site-navigation .menu-button >a >span.link-inner:hover{background-color:#26ccd4}.wpex-text-accent_alt,.wpex-hover-text-accent_alt:hover{color:#26ccd4}.has-accent-background-color{background-color:#26ccd4}.has-accent-color{color:#26ccd4}.has-palette-960-background-color{background-color:#1b1b1b}.has-palette-960-color{color:#1b1b1b}.has-palette-959-background-color{background-color:#26ccd4}.has-palette-959-color{color:#26ccd4}.has-palette-912-background-color{background-color:#003b94}.has-palette-912-color{color:#003b94}/*TYPOGRAPHY*/body{font-size:16px;line-height:1.5em}#site-navigation .dropdown-menu .link-inner{font-weight:600;font-size:18px}#site-navigation .dropdown-menu ul .link-inner{font-weight:400;font-size:16px;line-height:26px}.page-header .page-header-title{font-weight:700;text-transform:uppercase}.theme-heading{font-weight:700;font-size:28px}.sidebar-box .widget-title{font-weight:600;font-size:24px;text-transform:uppercase}.footer-widget .widget-title{font-weight:700;font-size:38px;text-transform:uppercase;margin:0}.vcex-heading{font-weight:700;font-size:48px}@media(max-width:1024px){body{font-size:16px}#site-navigation .dropdown-menu .link-inner{font-size:16px}#site-navigation .dropdown-menu ul .link-inner{font-size:16px}.theme-heading{font-size:28px}.sidebar-box .widget-title{font-size:22px}.footer-widget .widget-title{font-size:36px}.vcex-heading{font-size:46px}}@media(max-width:959px){body{font-size:14px}#site-navigation .dropdown-menu .link-inner{font-size:16px}#site-navigation .dropdown-menu ul .link-inner{font-size:14px}.theme-heading{font-size:26px}.sidebar-box .widget-title{font-size:22px}.footer-widget .widget-title{font-size:34px}.vcex-heading{font-size:42px}}@media(max-width:767px){body{font-size:14px}#site-navigation .dropdown-menu .link-inner{font-size:14px}#site-navigation .dropdown-menu ul .link-inner{font-size:14px}.theme-heading{font-size:24px}.sidebar-box .widget-title{font-size:22px}.footer-widget .widget-title{font-size:26px}.vcex-heading{font-size:38px}}@media(max-width:479px){body{font-size:14px}#site-navigation .dropdown-menu .link-inner{font-size:14px}#site-navigation .dropdown-menu ul .link-inner{font-size:14px}.theme-heading{font-size:20px}.sidebar-box .widget-title{font-size:20px}.footer-widget .widget-title{font-size:18px}.vcex-heading{font-size:28px}}/*ADVANCED STYLING CSS*/.shrink-sticky-header #site-logo img{max-height:60px !important}.sticky-header-shrunk #site-header-inner{height:70px}.shrink-sticky-header.sticky-header-shrunk #site-logo img{max-height:50px !important}#site-logo img{max-height:60px}body.wpex-is-retina #site-header-sticky-wrapper.is-sticky #site-logo img{max-height:1512px}.page-header.has-bg-image{background-image:url(https://www.bkn.go.id/unggahan/2021/08/bkn-dummy-post_05.jpg)}#mobile-menu .wpex-bars>span,#mobile-menu .wpex-bars>span::before,#mobile-menu .wpex-bars>span::after{background-color:#26ccd4}#mobile-menu a:hover .wpex-bars>span,#mobile-menu a:hover .wpex-bars>span::before,#mobile-menu a:hover .wpex-bars>span::after{background-color:#001f46}#footer{background-image:url(https://www.bkn.go.id/unggahan/2022/03/bg-footer-gedung-bkn.webp)}/*CUSTOMIZER STYLING*/::selection{color:#26ccd4}::-moz-selection{color:#26ccd4}.background-image-page-header-overlay{background-color:#1b1b1b}.page-header.wpex-supports-mods .page-header-title{color:#ffffff}.site-breadcrumbs{color:#26ccd4}.site-breadcrumbs .sep{color:#ffffff}.site-breadcrumbs a:hover{color:#d9ad2a}a:hover{color:#26ccd4}.theme-button,input[type="submit"],button,.button,.added_to_cart{padding:10px 30px}.theme-button,input[type="submit"],button,#site-navigation .menu-button >a >span.link-inner,.button,.added_to_cart{border-radius:0;background-color:#003b94;color:#ffffff}.theme-button:hover,input[type="submit"]:hover,button:hover,#site-navigation .menu-button >a:hover >span.link-inner,.button:hover,.added_to_cart:hover{background-color:#26ccd4}#site-scroll-top{color:#003b94}#site-scroll-top:hover{color:#ffffff}.container,.boxed-main-layout #wrap{width:1300px}#top-bar-wrap{background-color:#001f46;color:#ffffff}.wpex-top-bar-sticky{background-color:#001f46}#top-bar-content strong{color:#ffffff}#top-bar a:not(.theme-button):not(.wpex-social-btn):hover{color:#d9ad2a}#top-bar{padding-top:5px;padding-bottom:5px}#top-bar-social a.wpex-social-btn-no-style{color:#001f46}#top-bar-social a.wpex-social-btn-no-style:hover{color:#cf0000}#site-header #site-header-inner{padding-top:25px;padding-bottom:25px}#site-header{background-color:#212125}#site-header-sticky-wrapper{background-color:#212125}#site-header-sticky-wrapper.is-sticky #site-header{background-color:#212125}.footer-has-reveal #site-header{background-color:#212125}#searchform-header-replace{background-color:#212125}body.wpex-has-vertical-header #site-header{background-color:#212125}.wpex-sticky-header-holder.is-sticky #site-header{opacity:0.9}#site-navigation-wrap.has-menu-underline .main-navigation-ul>li>a>.link-inner::after{background:#26ccd4}#site-navigation .dropdown-menu >li.menu-item >a{color:#ffffff}#site-navigation .dropdown-menu >li.menu-item >a:hover,#site-navigation .dropdown-menu >li.menu-item.dropdown.sfHover >a{color:#26ccd4}#site-navigation .dropdown-menu >li.menu-item.current-menu-item >a,#site-navigation .dropdown-menu >li.menu-item.current-menu-parent >a{color:#26ccd4}#site-header #site-navigation .dropdown-menu ul.sub-menu{background-color:#003b94;border-color:#004294}.wpex-dropdowns-caret .dropdown-menu ul.sub-menu::after{border-bottom-color:#003b94}#site-header #site-navigation .dropdown-menu ul.sub-menu li.menu-item{border-color:#004294}#site-header #site-navigation .dropdown-menu ul.sub-menu li.menu-item a{border-color:#004294}.wpex-dropdown-top-border #site-navigation .dropdown-menu li.menu-item ul.sub-menu{border-top-color:#26ccd4!important}.header-drop-widget{border-top-color:#26ccd4!important}#site-header #site-navigation .dropdown-menu ul.sub-menu >li.menu-item >a{color:#ffffff}#site-header #site-navigation .dropdown-menu ul.sub-menu >li.menu-item >a:hover{color:#26ccd4;background-color:#00388c}#site-header #site-navigation .dropdown-menu ul.sub-menu >li.menu-item.current-menu-item >a{color:#26ccd4;background-color:#003e9b}#mobile-menu a{color:#26ccd4}#mobile-menu a:hover{color:#001f46}#sidr-main{background-color:#001f46;color:#ffffff}.sidr a:hover,.sidr-class-menu-item-has-children.active >a{color:#26ccd4}.testimonial-entry-thumb.default-dims img{width:180px;height:180px}#footer{background-color:#212125}#footer,.site-footer .widget-title,.site-footer .wpex-widget-heading{color:#ffffff}#footer a:not(.theme-button){color:#ffffff}.footer-widget .widget-title{color:#ffffff;text-align:center}.footer-widget{padding-bottom:20px}#footer-bottom{padding:12px 0;background:#003b94;color:#cecece}#footer-bottom p{color:#cecece}#footer-bottom a{color:#ffffff}#footer-bottom a:hover{color:#26ccd4}.vc_column-inner{margin-bottom:60px}@media only screen and (min-width:960px){#site-logo img{max-width:180px}}@media only screen and (max-width:767px){#site-logo img{max-width:120px}}</style></head>
+
+<body class="post-template-default single single-post postid-118075 single-format-standard wp-custom-logo wp-embed-responsive wpex-theme wpex-responsive full-width-main-layout no-composer wpex-live-site site-full-width content-right-sidebar has-sidebar post-in-category-berita post-in-category-publikasi sidebar-widget-icons has-overlay-header footer-has-reveal wpex-has-fixed-footer page-with-background-title wpex-mobile-toggle-menu-icon_buttons has-mobile-menu comment-avatars-disabled wpex-share-p-horizontal wpb-js-composer js-comp-ver-6.7.0 vc_responsive wpex-is-retina wpex-docready wpex-window-loaded">
+
+	
+	
+	<div class="wpex-site-overlay"></div>
+<a href="#content" class="skip-to-content">skip to Main Content</a><span data-ls_id="#site_top"></span>
+	<div id="outer-wrap" class="wpex-clr">
+
+		
+		<div id="wrap" class="wpex-clr" style="margin-bottom: 314.195px;">
+
+			
+<div id="overlay-header-wrap" class="wpex-clr">
+
+	<div id="site-header-sticky-wrapper" class="wpex-sticky-header-holder not-sticky wpex-can-sticky"><header id="site-header" class="header-one wpex-dropdowns-shadow-five fixed-scroll shrink-sticky-header anim-shrink-header overlay-header core-style custom-bg dyn-styles wpex-clr" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+
+		
+		<div id="site-header-inner" class="container wpex-clr">
+<div id="site-logo" class="site-branding header-one-logo wpex-clr">
+	<div id="site-logo-inner" class="wpex-clr"><a id="site-logo-link" href="https://www.bkn.go.id/" rel="home" class="main-logo"><img src="https://www.bkn.go.id/unggahan/2023/11/1-Transparan-Logo.png" alt="Badan Kepegawaian Negara (BKN RI)" class="logo-img" width="1080" height="60" data-no-retina="" data-skip-lazy="" draggable="false"></a></div>
+
+</div>
+	
+	<div id="site-navigation-wrap" class="navbar-style-one has-menu-underline wpex-dropdowns-caret wpex-dropdown-top-border hide-at-mm-breakpoint wpex-clr">
+
+		<nav id="site-navigation" class="navigation main-navigation main-navigation-one wpex-clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" aria-label="Main menu">
+
+			
+				<ul id="menu-main-menu" class="dropdown-menu main-navigation-ul sf-menu sf-js-enabled"><li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-81"><a href="https://www.bkn.go.id/"><span class="link-inner">Beranda</span></a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-31"><a href="https://www.bkn.go.id/profil/" class="sf-with-ul"><span class="link-inner">Profil <span class="nav-arrow top-level ticon ticon-angle-down" aria-hidden="true"></span></span></a>
+<ul class="sub-menu" style="display: none;">
+	<li id="menu-item-115429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115429"><a href="https://www.bkn.go.id/profil/logo-bkn/"><span class="link-inner">Logo BKN</span></a></li>
+	<li id="menu-item-521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-521"><a href="https://www.bkn.go.id/profil/visi-dan-misi-bkn/"><span class="link-inner">Visi dan Misi BKN</span></a></li>
+	<li id="menu-item-561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-561"><a href="https://www.bkn.go.id/profil/sejarah-bkn/"><span class="link-inner">Sejarah BKN</span></a></li>
+	<li id="menu-item-755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-755"><a href="https://www.bkn.go.id/profil/struktur-organisasi-bkn/"><span class="link-inner">Struktur Organisasi BKN</span></a></li>
+	<li id="menu-item-752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-752"><a href="https://www.bkn.go.id/profil/profil-pejabat-pimpinan-tinggi-bkn/"><span class="link-inner">Profil Pejabat Pimpinan Tinggi BKN</span></a></li>
+	<li id="menu-item-110176" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110176"><a href="https://elhkpn.kpk.go.id/portal/user/pengumuman_lhkpn/YURGVE16RkhNbEoxVDFSWVYxRmFXSEpMVlRsUVNUVjBSM00zTjAxQlZYRXdObUozUW14eFVYcHRSakJXWkZOblNYTjBLMnd3YkZCVE9HSjNRVXhEVkE9PQ=="><span class="link-inner">e-LHKPN Pejabat Pimpinan Tinggi</span></a></li>
+	<li id="menu-item-754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-754"><a href="https://www.bkn.go.id/profil/hymne-bkn/"><span class="link-inner">Hymne BKN</span></a></li>
+	<li id="menu-item-753" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-753"><a href="https://www.bkn.go.id/profil/mars-bkn/"><span class="link-inner">Mars BKN</span></a></li>
+	<li id="menu-item-847" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-847"><a href="https://www.bkn.go.id/profil/reformasi-birokrasi/"><span class="link-inner">Reformasi Birokrasi</span></a></li>
+	<li id="menu-item-868" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-868"><a href="https://www.bkn.go.id/profil/kantor-kantor-bkn/"><span class="link-inner">Kantor-Kantor BKN</span></a></li>
+	<li id="menu-item-893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-893"><a href="https://www.bkn.go.id/profil/maklumat-pelayanan/"><span class="link-inner">Maklumat Pelayanan</span></a></li>
+	<li id="menu-item-109989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109989"><a href="https://www.bkn.go.id/publikasi/panduan-perilaku-core-value-asn/"><span class="link-inner">Panduan Perilaku Core Value ASN</span></a></li>
+</ul>
+</li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-30"><a href="https://www.bkn.go.id/publikasi/" title="Publikasi" class="sf-with-ul"><span class="link-inner">Publikasi <span class="nav-arrow top-level ticon ticon-angle-down" aria-hidden="true"></span></span></a>
+<ul class="sub-menu" style="display: none;">
+	<li id="menu-item-526" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-526"><a href="https://www.bkn.go.id/category/publikasi/berita/"><span class="link-inner">Berita</span></a></li>
+	<li id="menu-item-1091" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1091"><a href="https://www.bkn.go.id/category/publikasi/siaran-pers/"><span class="link-inner">Siaran Pers</span></a></li>
+	<li id="menu-item-1090" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1090"><a href="https://www.bkn.go.id/category/publikasi/pengumuman/"><span class="link-inner">Pengumuman</span></a></li>
+	<li id="menu-item-109205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109205"><a href="https://www.bkn.go.id/publikasi/statistik-asn/"><span class="link-inner">Statistik ASN</span></a></li>
+	<li id="menu-item-108838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-108838"><a href="https://www.bkn.go.id/publikasi/akuntabilitas-kinerja/" class="sf-with-ul"><span class="link-inner">Akuntabilitas Kinerja<span class="nav-arrow second-level ticon ticon-angle-right" aria-hidden="true"></span></span></a>
+	<ul class="sub-menu" style="display: none;">
+		<li id="menu-item-108837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108837"><a href="https://www.bkn.go.id/publikasi/akuntabilitas-kinerja/rencana-strategis-bkn/"><span class="link-inner">Rencana Strategis BKN</span></a></li>
+		<li id="menu-item-108836" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108836"><a href="https://www.bkn.go.id/publikasi/akuntabilitas-kinerja/rencana-kerja-bkn/"><span class="link-inner">Rencana Kerja BKN</span></a></li>
+		<li id="menu-item-114624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114624"><a href="https://www.bkn.go.id/publikasi/akuntabilitas-kinerja/program-kerja-bkn/"><span class="link-inner">Program Kerja BKN</span></a></li>
+		<li id="menu-item-108695" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108695"><a href="https://www.bkn.go.id/publikasi/akuntabilitas-kinerja/laporan-akuntabilitas-kinerja-instansi-pemerintah-bkn/"><span class="link-inner">Laporan Akuntabilitas Kinerja Instansi Pemerintah BKN</span></a></li>
+		<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://www.bkn.go.id/publikasi/laporan-bmn-bkn/"><span class="link-inner">Laporan BMN BKN</span></a></li>
+		<li id="menu-item-118007" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118007"><a href="https://www.bkn.go.id/informasi-pengadaan-barang-dan-jasa/"><span class="link-inner">Informasi Pengadaan Barang dan Jasa</span></a></li>
+		<li id="menu-item-108680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108680"><a href="https://www.bkn.go.id/publikasi/akuntabilitas-kinerja/laporan-keuangan-bkn/"><span class="link-inner">Laporan Keuangan BKN</span></a></li>
+		<li id="menu-item-111785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111785"><a href="https://www.bkn.go.id/publikasi/akuntabilitas-kinerja/opini-bpk/"><span class="link-inner">Opini BPK</span></a></li>
+		<li id="menu-item-114465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114465"><a href="https://www.bkn.go.id/publikasi/akuntabilitas-kinerja/pelaporan-lhkpn-lhkasn-spt-bkn/"><span class="link-inner">Pelaporan LHKPN/LHKASN &amp; SPT BKN</span></a></li>
+		<li id="menu-item-108854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108854"><a href="https://www.bkn.go.id/publikasi/akuntabilitas-kinerja/nilai-indeks-kepuasan-masyarakat/"><span class="link-inner">Nilai Indeks Kepuasan Masyarakat</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-108613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108613"><a href="https://www.bkn.go.id/publikasi/nota-kesepahaman-mou-dan-perjanjian-kerja-sama/" title="Nota Kesepahaman (MOU) dan Perjanjian Kerja Sama (PKS)"><span class="link-inner">MOU dan PKS</span></a></li>
+	<li id="menu-item-527" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-527"><a href="https://www.bkn.go.id/category/publikasi/blog-kepegawaian/"><span class="link-inner">Blog Kepegawaian</span></a></li>
+	<li id="menu-item-1009" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1009"><a href="https://www.bkn.go.id/publikasi/e-library/" title="e-Library BKN"><span class="link-inner">e-Library</span></a></li>
+	<li id="menu-item-1092" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1092"><a href="https://www.bkn.go.id/category/publikasi/berita-duka/"><span class="link-inner">Berita Duka</span></a></li>
+	<li id="menu-item-117643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117643"><a href="https://www.bkn.go.id/agenda-kegiatan/"><span class="link-inner">Agenda Kegiatan</span></a></li>
+</ul>
+</li>
+<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="https://www.bkn.go.id/layanan/" title="Layanan BKN"><span class="link-inner">Layanan</span></a></li>
+<li id="menu-item-3113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-3113"><a href="/regulasi" class="sf-with-ul"><span class="link-inner">Regulasi <span class="nav-arrow top-level ticon ticon-angle-down" aria-hidden="true"></span></span></a>
+<ul class="sub-menu" style="display: none;">
+	<li id="menu-item-1679" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1679"><a target="_blank" href="https://jdih.bkn.go.id/" title="Jaringan Dokumentasi dan Informasi Hukum"><span class="link-inner">JDIH BKN</span></a></li>
+</ul>
+</li>
+<li id="menu-item-111539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111539"><a href="https://www.bkn.go.id/ppid-bkn/"><span class="link-inner">PPID BKN</span></a></li>
+<li id="menu-item-1846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-1846"><a href="https://www.bkn.go.id/hubungi-kami/" class="sf-with-ul"><span class="link-inner">Hubungi Kami <span class="nav-arrow top-level ticon ticon-angle-down" aria-hidden="true"></span></span></a>
+<ul class="sub-menu" style="display: none;">
+	<li id="menu-item-1848" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1848"><a target="_blank" href="https://www.lapor.go.id/instansi/badan-kepegawaian-negara"><span class="link-inner">Lapor BKN</span></a></li>
+	<li id="menu-item-111935" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111935"><a href="https://support-siasn.bkn.go.id/"><span class="link-inner">Helpdesk SIASN</span></a></li>
+	<li id="menu-item-114157" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-114157"><a href="https://sites.google.com/view/surveiikmbkn?usp=sharing"><span class="link-inner">Survei Kepuasan Masyarakat</span></a></li>
+</ul>
+</li>
+<li class="search-toggle-li menu-item wpex-menu-extra"><a href="#" class="site-search-toggle search-dropdown-toggle" role="button" aria-expanded="false" aria-label="Search"><span class="link-inner"><span class="wpex-menu-search-text">Search</span><span class="wpex-menu-search-icon ticon ticon-search" aria-hidden="true"></span></span></a></li></ul>
+			
+		</nav>
+
+	</div>
+
+	
+
+<div id="mobile-menu" class="wpex-mobile-menu-toggle show-at-mm-breakpoint wpex-absolute wpex-top-50 wpex-right-0">
+	<div class="wpex-inline-flex wpex-items-center">
+						<a href="#" class="mobile-menu-toggle" role="button" aria-label="Toggle mobile menu" aria-expanded="false"><span class="wpex-bars" aria-hidden="true"><span></span></span></a>			</div>
+</div>
+<div id="searchform-dropdown" data-placeholder="Search" data-disable-autocomplete="true" class="header-searchform-wrap header-drop-widget wpex-invisible wpex-opacity-0 wpex-absolute wpex-shadow wpex-transition-all wpex-duration-200 wpex-translate-Z-0 wpex-text-initial wpex-z-10000 wpex-top-100 wpex-right-0 wpex-bg-white wpex-text-gray-600 wpex-border-accent wpex-border-solid wpex-border-t-3 wpex-p-15">
+	
+<form method="get" class="searchform" action="https://www.bkn.go.id/">
+	<label>
+		<span class="screen-reader-text">Search</span>
+		<input type="search" class="field" name="s" placeholder="Search" autocomplete="off">
+	</label>
+			<button type="submit" class="searchform-submit"><span class="ticon ticon-search" aria-hidden="true"></span><span class="screen-reader-text">Submit</span></button>
+</form></div></div>
+
+		
+	</header></div>
+
+
+
+			
+			<main id="main" class="site-main wpex-clr" style="min-height: 377.82px;">
+
+				
+<header class="page-header background-image-page-header wpex-supports-mods has-bg-image bg-cover wpex-relative wpex-mb-40 wpex-flex wpex-items-center wpex-flex-wrap wpex-bg-gray-900 wpex-text-white wpex-text-center">
+
+	<div class="background-image-page-header-overlay style-dark wpex-z-0 wpex-bg-black wpex-absolute wpex-inset-0 wpex-opacity-70"></div>
+	<div class="page-header-inner container wpex-py-20 wpex-z-5 wpex-relative">
+<div class="page-header-content">
+
+<span class="page-header-title wpex-block wpex-m-0 wpex-inherit-font-family wpex-not-italic wpex-tracking-normal wpex-leading-normal wpex-font-normal wpex-text-7xl wpex-text-white">
+
+	<span>Berita</span>
+
+</span>
+
+<nav class="site-breadcrumbs position-page_header_content wpex-text-sm" aria-label="You are here:"><span class="breadcrumb-trail wpex-clr"><span><span><a href="https://www.bkn.go.id/">Home</a></span> » <span><a href="https://www.bkn.go.id/publikasi/">Publikasi</a></span> » <span class="breadcrumb_last" aria-current="page">BKN telah Akreditasi 14 Lembaga Penyelenggara Penilaian Kompetensi Tahun 2024</span></span></span></nav></div></div>
+
+	
+</header>
+
+
+	<div id="content-wrap" class="container wpex-clr">
+
+		
+		<div id="primary" class="content-area wpex-clr">
+
+			
+			<div id="content" class="site-content wpex-clr">
+
+				
+				
+<article id="single-blocks" class="single-blog-article wpex-first-mt-0 wpex-clr">
+
+	
+	<div id="post-media" class="single-blog-media single-media wpex-mb-20">
+
+	<a href="https://www.bkn.go.id/unggahan/2024/10/1-6.png" title="Enlarge Image" class="wpex-lightbox"><img loading="lazy" class="blog-single-media-img wpex-align-middle" itemprop="image" src="https://www.bkn.go.id/unggahan/2024/10/1-6-center-bottom-897x528.png" alt="" width="897" height="528" draggable="false"></a>
+
+
+</div>
+
+
+<header class="single-blog-header wpex-mb-10">
+	<h1 class="single-post-title entry-title wpex-text-3xl" itemprop="headline">BKN telah Akreditasi 14 Lembaga Penyelenggara Penilaian Kompetensi Tahun 2024</h1>
+</header>
+<ul class="meta wpex-text-sm wpex-text-gray-600 wpex-mb-20 wpex-last-mr-0">
+
+	
+		
+			<li class="meta-date"><span class="ticon ticon-clock-o" aria-hidden="true"></span><time class="updated" datetime="2024-10-31" itemprop="datePublished" pubdate="">31/10/2024</time></li>
+
+		
+	
+		
+			<li class="meta-category"><span class="ticon ticon-folder-o" aria-hidden="true"></span><a class="term-1" href="https://www.bkn.go.id/category/publikasi/berita/">Berita</a>, <a class="term-4" href="https://www.bkn.go.id/category/publikasi/">Publikasi</a></li>
+
+		
+	
+</ul>
+<div class="single-blog-content entry wpex-mt-20 wpex-mb-40 wpex-clr" itemprop="text"><p style="text-align: justify;">Jakarta – Humas BKN, Badan Kepegawaian Negara (BKN) melalui Pusat Penilaian Kompetensi (Puspenkom) ASN telah mengakreditasi 14 (empat belas) instansi penyelenggara penilaian kompetensi yang terdiri dari Kementerian/ Lembaga dan Perguruan Tinggi Negeri pada tahun 2024. Program akreditasi ini bertujuan agar metode penilaian kompetensi ASN di seluruh Indonesia memiliki standar yang sama sekaligus mendorong percepatan pembangunan manajemen talenta ASN bersamaan dengan pembentukan Kabinet Merah Putih Periode Tahun 2024-2029.</p>
+<p style="text-align: justify;"><a href="https://www.bkn.go.id/unggahan/2024/10/2-6.png"><img fetchpriority="high" decoding="async" class="aligncenter size-medium wp-image-118079" src="https://www.bkn.go.id/unggahan/2024/10/2-6-570x380.png" alt="" width="570" height="380" srcset="https://www.bkn.go.id/unggahan/2024/10/2-6-570x380.png 570w, https://www.bkn.go.id/unggahan/2024/10/2-6-897x598.png 897w, https://www.bkn.go.id/unggahan/2024/10/2-6-768x512.png 768w, https://www.bkn.go.id/unggahan/2024/10/2-6.png 940w" sizes="(max-width: 570px) 100vw, 570px" draggable="false"></a></p>
+<p style="text-align: justify;">Plt Kepala BKN Haryomo Dwi Putranto mengungkapkan bahwa saat ini sudah banyak instansi pemerintah yang menjalankan penilaian kompetensi. Namun dalam pelaksanaannya seringkali instansi menjalankan penilaian dengan standarnya masing-masing. Hal itu menurutnya menyebabkan pola pelaksanaan penilaian kompetensi menjadi beragam dan kurang mengarah kepada satu standar yang baku.</p>
+<p style="text-align: justify;"><a href="https://www.bkn.go.id/unggahan/2024/10/3-6.png"><img decoding="async" class="aligncenter size-medium wp-image-118078" src="https://www.bkn.go.id/unggahan/2024/10/3-6-570x380.png" alt="" width="570" height="380" srcset="https://www.bkn.go.id/unggahan/2024/10/3-6-570x380.png 570w, https://www.bkn.go.id/unggahan/2024/10/3-6-897x598.png 897w, https://www.bkn.go.id/unggahan/2024/10/3-6-768x512.png 768w, https://www.bkn.go.id/unggahan/2024/10/3-6.png 940w" sizes="(max-width: 570px) 100vw, 570px" draggable="false"></a></p>
+<p style="text-align: justify;">“Standarisasi melalui akreditasi perlu dilakukan untuk menjamin kualitas hasil penilaian kompetensi dilaksanakan oleh Penyelenggara yang memang benar-benar layak, akuntabel, dan hasilnya dapat dimanfaatkan oleh Instansi Pengguna,” terangnya di tengah Rapat Koordinasi Percepatan Pembangunan Manajemen Talenta ASN dalam Mendukung Kabinet Merah Putih, Rabu (30/10/2024) di kawasan Jakarta.</p>
+<p style="text-align: justify;"><a href="https://www.bkn.go.id/unggahan/2024/10/4-4.png"><img decoding="async" class="aligncenter size-medium wp-image-118076" src="https://www.bkn.go.id/unggahan/2024/10/4-4-570x380.png" alt="" width="570" height="380" srcset="https://www.bkn.go.id/unggahan/2024/10/4-4-570x380.png 570w, https://www.bkn.go.id/unggahan/2024/10/4-4-897x598.png 897w, https://www.bkn.go.id/unggahan/2024/10/4-4-768x512.png 768w, https://www.bkn.go.id/unggahan/2024/10/4-4.png 940w" sizes="(max-width: 570px) 100vw, 570px" draggable="false"></a></p>
+<p style="text-align: justify;">Menurut laporan Kepala Puspenkom ASN Bajoe Loedi Hargono, BKN telah memberikan total akreditasi kepada lembaga penyelenggara penilaian kompetensi dari Kementerian, Lembaga, Pemerintah Daerah baik Provinsi dan Kabupaten Kota, Perguruan Tinggi Negeri, Polri dan TNI sebanyak 56 instansi. Di mana pada tahun 2024 sendiri, ada sebanyak 14 lembaga khususnya di instansi pusat yang telah mengajukan akreditasi maupun reakreditasi karena sudah habis masa berlakunya.</p>
+<p style="text-align: justify;"><a href="https://www.bkn.go.id/unggahan/2024/10/5-2.png"><img loading="lazy" decoding="async" class="aligncenter size-medium wp-image-118077" src="https://www.bkn.go.id/unggahan/2024/10/5-2-570x380.png" alt="" width="570" height="380" srcset="https://www.bkn.go.id/unggahan/2024/10/5-2-570x380.png 570w, https://www.bkn.go.id/unggahan/2024/10/5-2-897x598.png 897w, https://www.bkn.go.id/unggahan/2024/10/5-2-768x512.png 768w, https://www.bkn.go.id/unggahan/2024/10/5-2.png 940w" sizes="auto, (max-width: 570px) 100vw, 570px" draggable="false"></a></p>
+<p style="text-align: justify;">Di akhir acara, Sekretaris Utama BKN Imas Sukmariah menyampaikan apresiasi kepada 14 instansi yang mendapatkan akreditasi dan mengimbau agar segera menyiapkan strategi berkaitan dengan pergeseran tugas dan fungsi pada beberapa kementerian dan lembaga dalam Kabinet Merah Putih 2024-2029 yang berdampak pada diperlukannya percepatan dalam hal pengisian jabatan ASN. “Sebagai instansi yang sudah memiliki akreditasi Lembaga Kompetensi, instansi diharapkan mampu menyusun strategi percepatan dalam melakukan uji kompetensi pada para kandidat yang sudah ditunjuk oleh Pejabat Pembina Kepegawaian atau PPK melalui manajemen talenta,” imbaunya.</p>
+<p>Selengkapnya berikut 14 instansi lembaga penyelenggara penilaian kompetensi yang telah terakreditasi BKN periode 2024:</p>
+<table>
+<tbody>
+<tr>
+<td width="60"><strong>No.</strong></td>
+<td width="356"><strong>Instansi Lembaga Penyelenggara Penkom</strong></td>
+<td width="85"><strong>Predikat Akreditasi</strong></td>
+</tr>
+<tr>
+<td width="60">1.</td>
+<td width="356">Biro Kepegawaian Kementerian Agama</td>
+<td width="85"><strong>B</strong></td>
+</tr>
+<tr>
+<td width="60">2.</td>
+<td width="356">Biro Kepegawaian dan Organisasi Kementerian Desa Pembangunan Daerah Tertinggal dan Transmigrasi</td>
+<td width="85"><strong>B</strong></td>
+</tr>
+<tr>
+<td width="60">3.</td>
+<td width="356">Pusat Pengembangan Sumber Daya Manusia Aparatur<p></p>
+<p>Kementerian Energi dan Sumber Daya Mineral</p></td>
+<td width="85"><strong>B</strong></td>
+</tr>
+<tr>
+<td width="60">4.</td>
+<td width="356">Biro Sumber Daya Manusia Aparatur Dan Organisasi<p></p>
+<p>Kementerian Kelautan dan Perikanan</p></td>
+<td width="85"><strong>B</strong></td>
+</tr>
+<tr>
+<td width="60">5.</td>
+<td width="356">Biro Sumber Daya Manusia<p></p>
+<p>Badan Pengawasan Keuangan Dan Pembangunan</p></td>
+<td width="85"><strong>B</strong><p></p>
+<p><strong>&nbsp;</strong></p></td>
+</tr>
+<tr>
+<td width="60">6.</td>
+<td width="356">Lembaga Management Fakultas Ekonomi dan Bisnis Fakultas Ekonomi dan Bisnis<p></p>
+<p>Universitas Indonesia</p></td>
+<td width="85"><strong>B</strong></td>
+</tr>
+<tr>
+<td width="60">7.</td>
+<td width="356">Balai Penilaian Kompetensi<p></p>
+<p>Kementerian Pekerjaan Umum dan Perumahan Rakyat</p></td>
+<td width="85"><strong>A</strong></td>
+</tr>
+<tr>
+<td width="60">8.</td>
+<td width="356">Balai Besar Pelatihan Manajemen dan Kepemimpinan Pertanian<p></p>
+<p>Kementerian Pertanian</p></td>
+<td width="85"><strong>A</strong></td>
+</tr>
+<tr>
+<td width="60">9.</td>
+<td width="356">Pusat Pengembangan Pusat Asesmen Pegawai<p></p>
+<p>Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi</p></td>
+<td width="85"><strong>A</strong></td>
+</tr>
+<tr>
+<td width="60">10.</td>
+<td width="356">Pusat Pengembangan SDM<p></p>
+<p>Kementerian Agraria Dan Tata Ruang/ Badan Pertanahan Nasional</p></td>
+<td width="85"><strong>A</strong></td>
+</tr>
+<tr>
+<td width="60">11.</td>
+<td width="356">Unit Layanan Asesmen Center<p></p>
+<p>Badan Kependudukan dan Keluarga Berencana Nasional</p></td>
+<td width="85"><strong>A</strong></td>
+</tr>
+<tr>
+<td width="60">12.</td>
+<td width="356">Unit Layanan Penilaian Kompetensi dan Pengembangan SDM FISIP<p></p>
+<p>Fakultas Ilmu Sosial Dan Ilmu Politik Universitas Padjajaran</p></td>
+<td width="85"><strong>A</strong></td>
+</tr>
+<tr>
+<td width="60">13.</td>
+<td width="356">Unit Asesmen dan Pengembangan Kompetensi Pusat Inovasi Psikologi<p></p>
+<p>Universitas Padjajaran</p></td>
+<td width="85"><strong>A</strong></td>
+</tr>
+<tr>
+<td width="60">14</td>
+<td width="356">Pusat Layanan Psikologi Fakultas Psikologi<p></p>
+<p>Universitas Islam Negeri Syarif Hidayatullah Jakarta</p></td>
+<td width="85"><strong>A</strong></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Penulis:<em><strong>bp</strong></em><br>
+Foto:<em><strong>kis</strong></em><br>
+Editor:<em><strong>des</strong></em></p>
+</div>
+
+
+		<div class="wpex-social-share style-rounded position-horizontal" data-source="https%3A%2F%2Fwww.bkn.go.id%2F" data-url="https%3A%2F%2Fwww.bkn.go.id%2Fbkn-telah-akreditasi-14-lembaga-penyelenggara-penilaian-kompetensi-tahun-2024" data-title="BKN telah Akreditasi 14 Lembaga Penyelenggara Penilaian Kompetensi Tahun 2024" data-image="https%3A%2F%2Fwww.bkn.go.id%2Fwp-content%2Fuploads%2F2024%2F10%2F1-6.png" data-summary="Jakarta%20%E2%80%93%20Humas%20BKN%2C%20Badan%20Kepegawaian%20Negara%20%28BKN%29%20melalui%20Pusat%20Penilaian%20Kompetensi%20%28Puspenkom%29%20ASN%20telah%20mengakreditasi%2014%20%28empat%20belas%29%20instansi%20penyelenggara%20penilaian%20kompetensi%20yang%20terdiri%20dari%20Kementerian%2F%20Lembaga%20dan%20Perguruan" data-email-subject="I wanted you to see this link" data-email-body="I wanted you to see this link https%3A%2F%2Fwww.bkn.go.id%2Fbkn-telah-akreditasi-14-lembaga-penyelenggara-penilaian-kompetensi-tahun-2024" data-specs="menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600">
+
+			<h4 class="theme-heading border-bottom social-share-title"><span class="text">Bagikan tentang ini</span></h4>
+			
+	<ul class="wpex-social-share__list">
+
+		
+				<li class="wpex-social-share__item wpex-twitter">
+
+					
+						<a href="#" role="button" class="wpex-social-share__link">
+
+					
+						<span class="ticon ticon-twitter" aria-hidden="true"></span>
+													<span class="wpex-social-share__label wpex-label">Tweet</span>
+						
+					</a>
+
+				</li>
+
+			
+				<li class="wpex-social-share__item wpex-facebook">
+
+					
+						<a href="#" role="button" class="wpex-social-share__link">
+
+					
+						<span class="ticon ticon-facebook" aria-hidden="true"></span>
+													<span class="wpex-social-share__label wpex-label">Share</span>
+						
+					</a>
+
+				</li>
+
+			
+				<li class="wpex-social-share__item wpex-linkedin">
+
+					
+						<a href="#" role="button" class="wpex-social-share__link">
+
+					
+						<span class="ticon ticon-linkedin" aria-hidden="true"></span>
+													<span class="wpex-social-share__label wpex-label">Share</span>
+						
+					</a>
+
+				</li>
+
+			
+				<li class="wpex-social-share__item wpex-email">
+
+					
+						<a href="#" role="button" class="wpex-social-share__link">
+
+					
+						<span class="ticon ticon-envelope" aria-hidden="true"></span>
+													<span class="wpex-social-share__label wpex-label">Email</span>
+						
+					</a>
+
+				</li>
+
+			
+				<li class="wpex-social-share__item wpex-pinterest">
+
+					
+						<a href="#" role="button" class="wpex-social-share__link">
+
+					
+						<span class="ticon ticon-pinterest" aria-hidden="true"></span>
+													<span class="wpex-social-share__label wpex-label">Pin It</span>
+						
+					</a>
+
+				</li>
+
+			
+	</ul>
+
+	
+		</div>
+
+	
+
+	<div class="related-posts wpex-overflow-hidden wpex-mb-40 wpex-clr">
+
+		<h4 class="theme-heading border-bottom related-posts-title"><span class="text">Publikasi Lainnya</span></h4>
+		<div class="wpex-row wpex-clr gap-10">
+
+			
+<article class="related-post col span_1_of_4 col-1 wpex-clr post-118286 post type-post status-publish format-standard has-post-thumbnail hentry category-pengumuman category-publikasi entry has-media">
+
+	
+		<div class="related-post-inner wpex-flex-grow">
+
+			
+				<figure class="related-post-figure wpex-mb-15 wpex-relative overlay-parent overlay-parent-view-lightbox-buttons-buttons overlay-h wpex-overflow-hidden overlay-ms">
+					<a href="https://www.bkn.go.id/jadwal-pelaksanaan-skb-cpns-bkn-ta-2024-menggunakan-cat-pada-lokasi-luar-negeri/" title="Jadwal Pelaksanaan SKB CPNS BKN TA 2024 Menggunakan CAT pada Lokasi Luar Negeri" class="related-post-thumb">
+						<img loading="lazy" class="wpex-align-middle" src="https://www.bkn.go.id/unggahan/2024/12/pengumuman-LN-202x120.png" alt="" width="202" height="120" draggable="false">						<i class="wpex-thumbnail-format-icon wpex-block wpex-right-0 wpex-bottom-0 wpex-mr-15 wpex-mb-15 wpex-absolute wpex-text-white wpex-text-center wpex-leading-none wpex-opacity-0 wpex-onload-opacity-100" aria-hidden="true"><span class="ticon ticon-file-text-o"></span></i>											</a>
+					
+<div class="overlay-view-lightbox-buttons overlay-hide theme-overlay wpex-absolute wpex-inset-0 wpex-transition-all wpex-duration-300 wpex-flex wpex-items-center wpex-justify-center">
+	<span class="overlay-bg wpex-bg-black wpex-block wpex-absolute wpex-inset-0 wpex-opacity-60"></span>
+	<div class="overlay-content wpex-relative wpex-p-20">
+				<a href="https://www.bkn.go.id/unggahan/2024/12/pengumuman-LN.png" class="wpex-inline-block wpex-text-white wpex-hover-text-black wpex-hover-bg-white wpex-border-2 wpex-border-solid wpex-border-white wpex-leading-snug wpex-no-underline wpex-px-10 wpex-py-5 wpex-semi-rounded wpex-transition-colors wpex-duration-200 wpex-lightbox wpex-mr-5"><span class="ticon ticon-search" aria-hidden="true"></span></a>
+				<a href="https://www.bkn.go.id/jadwal-pelaksanaan-skb-cpns-bkn-ta-2024-menggunakan-cat-pada-lokasi-luar-negeri/" class="wpex-inline-block wpex-text-white wpex-hover-text-black wpex-hover-bg-white wpex-border-2 wpex-border-solid wpex-border-white wpex-leading-snug wpex-no-underline wpex-px-10 wpex-py-5 wpex-semi-rounded wpex-transition-colors wpex-duration-200 view-post"><span class="ticon ticon-arrow-right" aria-hidden="true"></span></a>
+	</div>
+</div>				</figure>
+
+			
+			
+				<div class="related-post-content wpex-clr">
+
+					<div class="related-post-title entry-title wpex-mb-5">
+						<a href="https://www.bkn.go.id/jadwal-pelaksanaan-skb-cpns-bkn-ta-2024-menggunakan-cat-pada-lokasi-luar-negeri/">Jadwal Pelaksanaan SKB CPNS BKN TA 2024 Menggunakan CAT pada Lokasi Luar Negeri</a>
+					</div>
+
+					<div class="related-post-excerpt wpex-text-sm wpex-leading-normal wpex-last-mb-0 wpex-clr"></div>
+
+				</div>
+
+			
+		</div>
+
+	
+</article>
+<article class="related-post col span_1_of_4 col-2 wpex-clr post-118280 post type-post status-publish format-standard has-post-thumbnail hentry category-berita category-publikasi entry has-media">
+
+	
+		<div class="related-post-inner wpex-flex-grow">
+
+			
+				<figure class="related-post-figure wpex-mb-15 wpex-relative overlay-parent overlay-parent-view-lightbox-buttons-buttons overlay-h wpex-overflow-hidden overlay-ms">
+					<a href="https://www.bkn.go.id/penyerahan-dipa-2025-bkn-kebagian-target-tiga-program-prioritas-nasional/" title="Penyerahan DIPA 2025, BKN Kebagian Target Tiga Program Prioritas Nasional" class="related-post-thumb">
+						<img loading="lazy" class="wpex-align-middle" src="https://www.bkn.go.id/unggahan/2024/12/1-202x120.jpeg" alt="" width="202" height="120" draggable="false">						<i class="wpex-thumbnail-format-icon wpex-block wpex-right-0 wpex-bottom-0 wpex-mr-15 wpex-mb-15 wpex-absolute wpex-text-white wpex-text-center wpex-leading-none wpex-opacity-0 wpex-onload-opacity-100" aria-hidden="true"><span class="ticon ticon-file-text-o"></span></i>											</a>
+					
+<div class="overlay-view-lightbox-buttons overlay-hide theme-overlay wpex-absolute wpex-inset-0 wpex-transition-all wpex-duration-300 wpex-flex wpex-items-center wpex-justify-center">
+	<span class="overlay-bg wpex-bg-black wpex-block wpex-absolute wpex-inset-0 wpex-opacity-60"></span>
+	<div class="overlay-content wpex-relative wpex-p-20">
+				<a href="https://www.bkn.go.id/unggahan/2024/12/1.jpeg" class="wpex-inline-block wpex-text-white wpex-hover-text-black wpex-hover-bg-white wpex-border-2 wpex-border-solid wpex-border-white wpex-leading-snug wpex-no-underline wpex-px-10 wpex-py-5 wpex-semi-rounded wpex-transition-colors wpex-duration-200 wpex-lightbox wpex-mr-5"><span class="ticon ticon-search" aria-hidden="true"></span></a>
+				<a href="https://www.bkn.go.id/penyerahan-dipa-2025-bkn-kebagian-target-tiga-program-prioritas-nasional/" class="wpex-inline-block wpex-text-white wpex-hover-text-black wpex-hover-bg-white wpex-border-2 wpex-border-solid wpex-border-white wpex-leading-snug wpex-no-underline wpex-px-10 wpex-py-5 wpex-semi-rounded wpex-transition-colors wpex-duration-200 view-post"><span class="ticon ticon-arrow-right" aria-hidden="true"></span></a>
+	</div>
+</div>				</figure>
+
+			
+			
+				<div class="related-post-content wpex-clr">
+
+					<div class="related-post-title entry-title wpex-mb-5">
+						<a href="https://www.bkn.go.id/penyerahan-dipa-2025-bkn-kebagian-target-tiga-program-prioritas-nasional/">Penyerahan DIPA 2025, BKN Kebagian Target Tiga Program Prioritas Nasional</a>
+					</div>
+
+					<div class="related-post-excerpt wpex-text-sm wpex-leading-normal wpex-last-mb-0 wpex-clr"></div>
+
+				</div>
+
+			
+		</div>
+
+	
+</article>
+<article class="related-post col span_1_of_4 col-3 wpex-clr post-118270 post type-post status-publish format-standard has-post-thumbnail hentry category-publikasi category-siaran-pers entry has-media">
+
+	
+		<div class="related-post-inner wpex-flex-grow">
+
+			
+				<figure class="related-post-figure wpex-mb-15 wpex-relative overlay-parent overlay-parent-view-lightbox-buttons-buttons overlay-h wpex-overflow-hidden overlay-ms">
+					<a href="https://www.bkn.go.id/penandatangan-surat-edaran-bersama-tentang-sistem-informasi-pengelolaan-kinerja-asn-guru-kepala-sekolah-dan-pengawas-sekolah/" title="Penandatangan Surat Edaran Bersama tentang Sistem Informasi Pengelolaan Kinerja ASN Guru, Kepala Sekolah, dan Pengawas Sekolah" class="related-post-thumb">
+						<img loading="lazy" class="wpex-align-middle" src="https://www.bkn.go.id/unggahan/2024/12/Screenshot-2024-12-09-161924-202x120.png" alt="" width="202" height="120" draggable="false">						<i class="wpex-thumbnail-format-icon wpex-block wpex-right-0 wpex-bottom-0 wpex-mr-15 wpex-mb-15 wpex-absolute wpex-text-white wpex-text-center wpex-leading-none wpex-opacity-0 wpex-onload-opacity-100" aria-hidden="true"><span class="ticon ticon-file-text-o"></span></i>											</a>
+					
+<div class="overlay-view-lightbox-buttons overlay-hide theme-overlay wpex-absolute wpex-inset-0 wpex-transition-all wpex-duration-300 wpex-flex wpex-items-center wpex-justify-center">
+	<span class="overlay-bg wpex-bg-black wpex-block wpex-absolute wpex-inset-0 wpex-opacity-60"></span>
+	<div class="overlay-content wpex-relative wpex-p-20">
+				<a href="https://www.bkn.go.id/unggahan/2024/12/Screenshot-2024-12-09-161924.png" class="wpex-inline-block wpex-text-white wpex-hover-text-black wpex-hover-bg-white wpex-border-2 wpex-border-solid wpex-border-white wpex-leading-snug wpex-no-underline wpex-px-10 wpex-py-5 wpex-semi-rounded wpex-transition-colors wpex-duration-200 wpex-lightbox wpex-mr-5"><span class="ticon ticon-search" aria-hidden="true"></span></a>
+				<a href="https://www.bkn.go.id/penandatangan-surat-edaran-bersama-tentang-sistem-informasi-pengelolaan-kinerja-asn-guru-kepala-sekolah-dan-pengawas-sekolah/" class="wpex-inline-block wpex-text-white wpex-hover-text-black wpex-hover-bg-white wpex-border-2 wpex-border-solid wpex-border-white wpex-leading-snug wpex-no-underline wpex-px-10 wpex-py-5 wpex-semi-rounded wpex-transition-colors wpex-duration-200 view-post"><span class="ticon ticon-arrow-right" aria-hidden="true"></span></a>
+	</div>
+</div>				</figure>
+
+			
+			
+				<div class="related-post-content wpex-clr">
+
+					<div class="related-post-title entry-title wpex-mb-5">
+						<a href="https://www.bkn.go.id/penandatangan-surat-edaran-bersama-tentang-sistem-informasi-pengelolaan-kinerja-asn-guru-kepala-sekolah-dan-pengawas-sekolah/">Penandatangan Surat Edaran Bersama tentang Sistem Informasi Pengelolaan Kinerja ASN Guru, Kepala Sekolah, dan Pengawas Sekolah</a>
+					</div>
+
+					<div class="related-post-excerpt wpex-text-sm wpex-leading-normal wpex-last-mb-0 wpex-clr"></div>
+
+				</div>
+
+			
+		</div>
+
+	
+</article>
+<article class="related-post col span_1_of_4 col-4 wpex-clr post-118268 post type-post status-publish format-standard has-post-thumbnail hentry category-berita entry has-media">
+
+	
+		<div class="related-post-inner wpex-flex-grow">
+
+			
+				<figure class="related-post-figure wpex-mb-15 wpex-relative overlay-parent overlay-parent-view-lightbox-buttons-buttons overlay-h wpex-overflow-hidden overlay-ms">
+					<a href="https://www.bkn.go.id/perubahan-sistem-pengelolaan-kinerja-tingkatkan-kualitas-kompetensi-dan-kinerja-asn-guru/" title="Perubahan Sistem Pengelolaan Kinerja Tingkatkan Kualitas Kompetensi, dan Kinerja ASN Guru" class="related-post-thumb">
+						<img loading="lazy" class="wpex-align-middle" src="https://www.bkn.go.id/unggahan/2024/12/DSC00922-scaled-202x120.jpg" alt="" width="202" height="120" draggable="false">						<i class="wpex-thumbnail-format-icon wpex-block wpex-right-0 wpex-bottom-0 wpex-mr-15 wpex-mb-15 wpex-absolute wpex-text-white wpex-text-center wpex-leading-none wpex-opacity-0 wpex-onload-opacity-100" aria-hidden="true"><span class="ticon ticon-file-text-o"></span></i>											</a>
+					
+<div class="overlay-view-lightbox-buttons overlay-hide theme-overlay wpex-absolute wpex-inset-0 wpex-transition-all wpex-duration-300 wpex-flex wpex-items-center wpex-justify-center">
+	<span class="overlay-bg wpex-bg-black wpex-block wpex-absolute wpex-inset-0 wpex-opacity-60"></span>
+	<div class="overlay-content wpex-relative wpex-p-20">
+				<a href="https://www.bkn.go.id/unggahan/2024/12/DSC00922-scaled.jpg" class="wpex-inline-block wpex-text-white wpex-hover-text-black wpex-hover-bg-white wpex-border-2 wpex-border-solid wpex-border-white wpex-leading-snug wpex-no-underline wpex-px-10 wpex-py-5 wpex-semi-rounded wpex-transition-colors wpex-duration-200 wpex-lightbox wpex-mr-5"><span class="ticon ticon-search" aria-hidden="true"></span></a>
+				<a href="https://www.bkn.go.id/perubahan-sistem-pengelolaan-kinerja-tingkatkan-kualitas-kompetensi-dan-kinerja-asn-guru/" class="wpex-inline-block wpex-text-white wpex-hover-text-black wpex-hover-bg-white wpex-border-2 wpex-border-solid wpex-border-white wpex-leading-snug wpex-no-underline wpex-px-10 wpex-py-5 wpex-semi-rounded wpex-transition-colors wpex-duration-200 view-post"><span class="ticon ticon-arrow-right" aria-hidden="true"></span></a>
+	</div>
+</div>				</figure>
+
+			
+			
+				<div class="related-post-content wpex-clr">
+
+					<div class="related-post-title entry-title wpex-mb-5">
+						<a href="https://www.bkn.go.id/perubahan-sistem-pengelolaan-kinerja-tingkatkan-kualitas-kompetensi-dan-kinerja-asn-guru/">Perubahan Sistem Pengelolaan Kinerja Tingkatkan Kualitas Kompetensi, dan Kinerja ASN Guru</a>
+					</div>
+
+					<div class="related-post-excerpt wpex-text-sm wpex-leading-normal wpex-last-mb-0 wpex-clr"></div>
+
+				</div>
+
+			
+		</div>
+
+	
+</article>
+		</div>
+
+	</div>
+
+	
+</article>
+				
+				
+			</div>
+
+			
+		</div>
+
+		
+<aside id="sidebar" class="sidebar-container sidebar-primary" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+
+	
+	<div id="sidebar-inner" class="wpex-mb-40"><div id="media_image-3" class="sidebar-box widget widget_media_image wpex-mb-30 wpex-clr"><a href="https://www.bkn.go.id/"><img width="1080" height="1512" src="https://www.bkn.go.id/unggahan/2023/11/1-Transparan-Logo.png" class="image wp-image-115420  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="https://www.bkn.go.id/unggahan/2023/11/1-Transparan-Logo.png 1080w, https://www.bkn.go.id/unggahan/2023/11/1-Transparan-Logo-271x380.png 271w, https://www.bkn.go.id/unggahan/2023/11/1-Transparan-Logo-427x598.png 427w, https://www.bkn.go.id/unggahan/2023/11/1-Transparan-Logo-768x1075.png 768w" sizes="auto, (max-width: 1080px) 100vw, 1080px" draggable="false"></a></div><div id="categories-2" class="wpex-bordered-list sidebar-box widget widget_categories wpex-mb-30 wpex-clr"><div class="widget-title wpex-heading wpex-text-md wpex-mb-20">Publikasi</div>
+			<ul>
+					<li class="cat-item cat-item-4"><a href="https://www.bkn.go.id/category/publikasi/">Publikasi</a>
+<ul class="children">
+	<li class="cat-item cat-item-1"><a href="https://www.bkn.go.id/category/publikasi/berita/">Berita</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="https://www.bkn.go.id/category/publikasi/berita-duka/">Berita Duka</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="https://www.bkn.go.id/category/publikasi/blog-kepegawaian/">Blog Kepegawaian</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="https://www.bkn.go.id/category/publikasi/pengumuman/">Pengumuman</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="https://www.bkn.go.id/category/publikasi/siaran-pers/">Siaran Pers</a>
+</li>
+</ul>
+</li>
+			</ul>
+
+			</div><div id="wpex_recent_posts_thumb-2" class="sidebar-box widget widget_wpex_recent_posts_thumb wpex-mb-30 wpex-clr"><div class="widget-title wpex-heading wpex-text-md wpex-mb-20">Publikasi Terbaru</div><ul class="wpex-widget-recent-posts style-default"><li class="wpex-widget-recent-posts-li wpex-py-15 wpex-border-b wpex-border-solid wpex-border-main wpex-border-t"><a href="https://www.bkn.go.id/jadwal-pelaksanaan-skb-cpns-bkn-ta-2024-menggunakan-cat-pada-lokasi-luar-negeri/" class="wpex-flex wpex-inherit-color-important wpex-no-underline"><div class="wpex-widget-recent-posts-thumbnail wpex-flex-shrink-0 wpex-mr-15 wpex-image-hover shrink" style="width:130px"><img loading="lazy" class="wpex-align-middle" src="https://www.bkn.go.id/unggahan/2024/12/pengumuman-LN-130x80.png" alt="" width="130" height="80" draggable="false"></div><div class="wpex-widget-recent-posts-details wpex-flex-grow"><div class="wpex-widget-recent-posts-title wpex-heading wpex-widget-heading">Jadwal Pelaksanaan SKB CPNS BKN TA 2024 Menggunakan CAT pada Lokasi Luar Negeri</div><div class="wpex-widget-recent-posts-date wpex-text-sm wpex-opacity-80">12/12/2024</div></div></a></li><li class="wpex-widget-recent-posts-li wpex-py-15 wpex-border-b wpex-border-solid wpex-border-main"><a href="https://www.bkn.go.id/penyerahan-dipa-2025-bkn-kebagian-target-tiga-program-prioritas-nasional/" class="wpex-flex wpex-inherit-color-important wpex-no-underline"><div class="wpex-widget-recent-posts-thumbnail wpex-flex-shrink-0 wpex-mr-15 wpex-image-hover shrink" style="width:130px"><img loading="lazy" class="wpex-align-middle" src="https://www.bkn.go.id/unggahan/2024/12/1-130x80.jpeg" alt="" width="130" height="80" draggable="false"></div><div class="wpex-widget-recent-posts-details wpex-flex-grow"><div class="wpex-widget-recent-posts-title wpex-heading wpex-widget-heading">Penyerahan DIPA 2025, BKN Kebagian Target Tiga Program Prioritas Nasional</div><div class="wpex-widget-recent-posts-date wpex-text-sm wpex-opacity-80">10/12/2024</div></div></a></li><li class="wpex-widget-recent-posts-li wpex-py-15 wpex-border-b wpex-border-solid wpex-border-main"><a href="https://www.bkn.go.id/penandatangan-surat-edaran-bersama-tentang-sistem-informasi-pengelolaan-kinerja-asn-guru-kepala-sekolah-dan-pengawas-sekolah/" class="wpex-flex wpex-inherit-color-important wpex-no-underline"><div class="wpex-widget-recent-posts-thumbnail wpex-flex-shrink-0 wpex-mr-15 wpex-image-hover shrink" style="width:130px"><img loading="lazy" class="wpex-align-middle" src="https://www.bkn.go.id/unggahan/2024/12/Screenshot-2024-12-09-161924-130x80.png" alt="" width="130" height="80" draggable="false"></div><div class="wpex-widget-recent-posts-details wpex-flex-grow"><div class="wpex-widget-recent-posts-title wpex-heading wpex-widget-heading">Penandatangan Surat Edaran Bersama tentang Sistem Informasi Pengelolaan Kinerja ASN Guru, Kepala Sekolah, dan Pengawas Sekolah</div><div class="wpex-widget-recent-posts-date wpex-text-sm wpex-opacity-80">09/12/2024</div></div></a></li><li class="wpex-widget-recent-posts-li wpex-py-15 wpex-border-b wpex-border-solid wpex-border-main"><a href="https://www.bkn.go.id/perubahan-sistem-pengelolaan-kinerja-tingkatkan-kualitas-kompetensi-dan-kinerja-asn-guru/" class="wpex-flex wpex-inherit-color-important wpex-no-underline"><div class="wpex-widget-recent-posts-thumbnail wpex-flex-shrink-0 wpex-mr-15 wpex-image-hover shrink" style="width:130px"><img loading="lazy" class="wpex-align-middle" src="https://www.bkn.go.id/unggahan/2024/12/DSC00922-scaled-130x80.jpg" alt="" width="130" height="80" draggable="false"></div><div class="wpex-widget-recent-posts-details wpex-flex-grow"><div class="wpex-widget-recent-posts-title wpex-heading wpex-widget-heading">Perubahan Sistem Pengelolaan Kinerja Tingkatkan Kualitas Kompetensi, dan Kinerja ASN Guru</div><div class="wpex-widget-recent-posts-date wpex-text-sm wpex-opacity-80">09/12/2024</div></div></a></li></ul></div><div id="archives-2" class="wpex-bordered-list sidebar-box widget widget_archive wpex-mb-30 wpex-clr"><div class="widget-title wpex-heading wpex-text-md wpex-mb-20">Archives</div>		<label class="screen-reader-text" for="archives-dropdown-2">Archives</label>
+		<div class="wpex-select-wrap wpex-archives-dropdown-2"><select id="archives-dropdown-2" name="archive-dropdown">
+			
+			<option value="">Select Month</option>
+				<option value="https://www.bkn.go.id/2024/12/"> December 2024 &nbsp;(8)</option>
+	<option value="https://www.bkn.go.id/2024/11/"> November 2024 &nbsp;(17)</option>
+	<option value="https://www.bkn.go.id/2024/10/"> October 2024 &nbsp;(24)</option>
+	<option value="https://www.bkn.go.id/2024/09/"> September 2024 &nbsp;(22)</option>
+	<option value="https://www.bkn.go.id/2024/08/"> August 2024 &nbsp;(25)</option>
+	<option value="https://www.bkn.go.id/2024/07/"> July 2024 &nbsp;(19)</option>
+	<option value="https://www.bkn.go.id/2024/06/"> June 2024 &nbsp;(22)</option>
+	<option value="https://www.bkn.go.id/2024/05/"> May 2024 &nbsp;(18)</option>
+	<option value="https://www.bkn.go.id/2024/04/"> April 2024 &nbsp;(10)</option>
+	<option value="https://www.bkn.go.id/2024/03/"> March 2024 &nbsp;(19)</option>
+	<option value="https://www.bkn.go.id/2024/02/"> February 2024 &nbsp;(24)</option>
+	<option value="https://www.bkn.go.id/2024/01/"> January 2024 &nbsp;(16)</option>
+	<option value="https://www.bkn.go.id/2023/12/"> December 2023 &nbsp;(26)</option>
+	<option value="https://www.bkn.go.id/2023/11/"> November 2023 &nbsp;(24)</option>
+	<option value="https://www.bkn.go.id/2023/10/"> October 2023 &nbsp;(25)</option>
+	<option value="https://www.bkn.go.id/2023/09/"> September 2023 &nbsp;(37)</option>
+	<option value="https://www.bkn.go.id/2023/08/"> August 2023 &nbsp;(26)</option>
+	<option value="https://www.bkn.go.id/2023/07/"> July 2023 &nbsp;(20)</option>
+	<option value="https://www.bkn.go.id/2023/06/"> June 2023 &nbsp;(12)</option>
+	<option value="https://www.bkn.go.id/2023/05/"> May 2023 &nbsp;(25)</option>
+	<option value="https://www.bkn.go.id/2023/04/"> April 2023 &nbsp;(17)</option>
+	<option value="https://www.bkn.go.id/2023/03/"> March 2023 &nbsp;(27)</option>
+	<option value="https://www.bkn.go.id/2023/02/"> February 2023 &nbsp;(15)</option>
+	<option value="https://www.bkn.go.id/2023/01/"> January 2023 &nbsp;(15)</option>
+	<option value="https://www.bkn.go.id/2022/12/"> December 2022 &nbsp;(27)</option>
+	<option value="https://www.bkn.go.id/2022/11/"> November 2022 &nbsp;(25)</option>
+	<option value="https://www.bkn.go.id/2022/10/"> October 2022 &nbsp;(39)</option>
+	<option value="https://www.bkn.go.id/2022/09/"> September 2022 &nbsp;(26)</option>
+	<option value="https://www.bkn.go.id/2022/08/"> August 2022 &nbsp;(16)</option>
+	<option value="https://www.bkn.go.id/2022/07/"> July 2022 &nbsp;(21)</option>
+	<option value="https://www.bkn.go.id/2022/06/"> June 2022 &nbsp;(24)</option>
+	<option value="https://www.bkn.go.id/2022/05/"> May 2022 &nbsp;(20)</option>
+	<option value="https://www.bkn.go.id/2022/04/"> April 2022 &nbsp;(17)</option>
+	<option value="https://www.bkn.go.id/2022/03/"> March 2022 &nbsp;(30)</option>
+	<option value="https://www.bkn.go.id/2022/02/"> February 2022 &nbsp;(11)</option>
+	<option value="https://www.bkn.go.id/2022/01/"> January 2022 &nbsp;(14)</option>
+	<option value="https://www.bkn.go.id/2021/12/"> December 2021 &nbsp;(21)</option>
+	<option value="https://www.bkn.go.id/2021/11/"> November 2021 &nbsp;(28)</option>
+	<option value="https://www.bkn.go.id/2021/10/"> October 2021 &nbsp;(31)</option>
+	<option value="https://www.bkn.go.id/2021/09/"> September 2021 &nbsp;(29)</option>
+	<option value="https://www.bkn.go.id/2021/08/"> August 2021 &nbsp;(25)</option>
+	<option value="https://www.bkn.go.id/2021/07/"> July 2021 &nbsp;(21)</option>
+	<option value="https://www.bkn.go.id/2021/06/"> June 2021 &nbsp;(21)</option>
+	<option value="https://www.bkn.go.id/2021/05/"> May 2021 &nbsp;(29)</option>
+	<option value="https://www.bkn.go.id/2021/04/"> April 2021 &nbsp;(30)</option>
+	<option value="https://www.bkn.go.id/2021/03/"> March 2021 &nbsp;(47)</option>
+	<option value="https://www.bkn.go.id/2021/02/"> February 2021 &nbsp;(28)</option>
+	<option value="https://www.bkn.go.id/2021/01/"> January 2021 &nbsp;(25)</option>
+	<option value="https://www.bkn.go.id/2020/07/"> July 2020 &nbsp;(1)</option>
+	<option value="https://www.bkn.go.id/2020/03/"> March 2020 &nbsp;(1)</option>
+	<option value="https://www.bkn.go.id/2019/12/"> December 2019 &nbsp;(2)</option>
+	<option value="https://www.bkn.go.id/2019/08/"> August 2019 &nbsp;(2)</option>
+	<option value="https://www.bkn.go.id/2019/04/"> April 2019 &nbsp;(2)</option>
+	<option value="https://www.bkn.go.id/2019/03/"> March 2019 &nbsp;(1)</option>
+	<option value="https://www.bkn.go.id/2019/02/"> February 2019 &nbsp;(2)</option>
+	<option value="https://www.bkn.go.id/2019/01/"> January 2019 &nbsp;(4)</option>
+	<option value="https://www.bkn.go.id/2018/11/"> November 2018 &nbsp;(1)</option>
+	<option value="https://www.bkn.go.id/2018/09/"> September 2018 &nbsp;(7)</option>
+	<option value="https://www.bkn.go.id/2018/02/"> February 2018 &nbsp;(1)</option>
+	<option value="https://www.bkn.go.id/2018/01/"> January 2018 &nbsp;(2)</option>
+	<option value="https://www.bkn.go.id/2017/12/"> December 2017 &nbsp;(2)</option>
+	<option value="https://www.bkn.go.id/2017/09/"> September 2017 &nbsp;(1)</option>
+	<option value="https://www.bkn.go.id/2017/03/"> March 2017 &nbsp;(5)</option>
+	<option value="https://www.bkn.go.id/2017/02/"> February 2017 &nbsp;(2)</option>
+	<option value="https://www.bkn.go.id/2017/01/"> January 2017 &nbsp;(2)</option>
+	<option value="https://www.bkn.go.id/2016/11/"> November 2016 &nbsp;(2)</option>
+	<option value="https://www.bkn.go.id/2016/10/"> October 2016 &nbsp;(1)</option>
+	<option value="https://www.bkn.go.id/2016/08/"> August 2016 &nbsp;(10)</option>
+	<option value="https://www.bkn.go.id/2016/07/"> July 2016 &nbsp;(1)</option>
+	<option value="https://www.bkn.go.id/2016/06/"> June 2016 &nbsp;(1)</option>
+	<option value="https://www.bkn.go.id/2016/05/"> May 2016 &nbsp;(1)</option>
+	<option value="https://www.bkn.go.id/2015/11/"> November 2015 &nbsp;(3)</option>
+	<option value="https://www.bkn.go.id/2015/10/"> October 2015 &nbsp;(1)</option>
+	<option value="https://www.bkn.go.id/2015/09/"> September 2015 &nbsp;(4)</option>
+	<option value="https://www.bkn.go.id/2015/08/"> August 2015 &nbsp;(1)</option>
+	<option value="https://www.bkn.go.id/2015/06/"> June 2015 &nbsp;(1)</option>
+	<option value="https://www.bkn.go.id/2015/02/"> February 2015 &nbsp;(3)</option>
+	<option value="https://www.bkn.go.id/2014/12/"> December 2014 &nbsp;(1)</option>
+	<option value="https://www.bkn.go.id/2014/11/"> November 2014 &nbsp;(3)</option>
+	<option value="https://www.bkn.go.id/2014/10/"> October 2014 &nbsp;(1)</option>
+	<option value="https://www.bkn.go.id/2014/08/"> August 2014 &nbsp;(3)</option>
+	<option value="https://www.bkn.go.id/2014/07/"> July 2014 &nbsp;(2)</option>
+	<option value="https://www.bkn.go.id/2014/05/"> May 2014 &nbsp;(2)</option>
+	<option value="https://www.bkn.go.id/2014/04/"> April 2014 &nbsp;(1)</option>
+	<option value="https://www.bkn.go.id/2014/02/"> February 2014 &nbsp;(1)</option>
+
+		</select><span class="ticon ticon-angle-down" aria-hidden="true"></span></div>
+
+			<script>
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown-2" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+</script>
+</div><div id="tag_cloud-2" class="sidebar-box widget widget_tag_cloud wpex-mb-30 wpex-clr"><div class="widget-title wpex-heading wpex-text-md wpex-mb-20">Tag</div><div class="tagcloud"><a href="https://www.bkn.go.id/tag/agenperubahan/" class="tag-cloud-link tag-link-74 tag-link-position-1" style="font-size: 1em;">#AgenPerubahan</a>
+<a href="https://www.bkn.go.id/tag/asnbelajarmandiri/" class="tag-cloud-link tag-link-71 tag-link-position-2" style="font-size: 1em;">#ASNBelajarMandiri</a>
+<a href="https://www.bkn.go.id/tag/asnpelayanpublik/" class="tag-cloud-link tag-link-135 tag-link-position-3" style="font-size: 1em;">#ASNPelayanPublik</a>
+<a href="https://www.bkn.go.id/tag/callforpaper/" class="tag-cloud-link tag-link-146 tag-link-position-4" style="font-size: 1em;">#CallForPaper</a>
+<a href="https://www.bkn.go.id/tag/casn2022/" class="tag-cloud-link tag-link-154 tag-link-position-5" style="font-size: 1em;">#CASN2022</a>
+<a href="https://www.bkn.go.id/tag/casnmengundurkandiri/" class="tag-cloud-link tag-link-78 tag-link-position-6" style="font-size: 1em;">#CASNMengundurkanDiri</a>
+<a href="https://www.bkn.go.id/tag/cegahpelanggarannspk/" class="tag-cloud-link tag-link-72 tag-link-position-7" style="font-size: 1em;">#CegahPelanggaranNSPK</a>
+<a href="https://www.bkn.go.id/tag/datamutanggungjawabmu/" class="tag-cloud-link tag-link-79 tag-link-position-8" style="font-size: 1em;">#DatamuTanggungJawabmu</a>
+<a href="https://www.bkn.go.id/tag/hut74bkn/" class="tag-cloud-link tag-link-76 tag-link-position-9" style="font-size: 1em;">#HUT74BKN</a>
+<a href="https://www.bkn.go.id/tag/ipakri/" class="tag-cloud-link tag-link-150 tag-link-position-10" style="font-size: 1em;">#IPAKRI</a>
+<a href="https://www.bkn.go.id/tag/kerjasamabilateral/" class="tag-cloud-link tag-link-69 tag-link-position-11" style="font-size: 1em;">#KerjaSamaBilateral</a>
+<a href="https://www.bkn.go.id/tag/kplbpns/" class="tag-cloud-link tag-link-144 tag-link-position-12" style="font-size: 1em;">#KPLBPNS</a>
+<a href="https://www.bkn.go.id/tag/layananmutasikepegawaian/" class="tag-cloud-link tag-link-143 tag-link-position-13" style="font-size: 1em;">#LayananMutasiKepegawaian</a>
+<a href="https://www.bkn.go.id/tag/moubknut/" class="tag-cloud-link tag-link-148 tag-link-position-14" style="font-size: 1em;">#MOUBKNUT</a>
+<a href="https://www.bkn.go.id/tag/pdmasn2021/" class="tag-cloud-link tag-link-80 tag-link-position-15" style="font-size: 1em;">#PDMASN2021</a>
+<a href="https://www.bkn.go.id/tag/pedomankehumasan/" class="tag-cloud-link tag-link-151 tag-link-position-16" style="font-size: 1em;">#PedomanKehumasan</a>
+<a href="https://www.bkn.go.id/tag/pendataannonasn/" class="tag-cloud-link tag-link-147 tag-link-position-17" style="font-size: 1em;">#PendataanNonASN</a>
+<a href="https://www.bkn.go.id/tag/pengembangankompetensiasn/" class="tag-cloud-link tag-link-149 tag-link-position-18" style="font-size: 1em;">#PengembanganKompetensiASN</a>
+<a href="https://www.bkn.go.id/tag/perubahantarifpnbp/" class="tag-cloud-link tag-link-142 tag-link-position-19" style="font-size: 1em;">#PerubahanTarifPNBP</a>
+<a href="https://www.bkn.go.id/tag/pppk/" class="tag-cloud-link tag-link-157 tag-link-position-20" style="font-size: 1em;">#PPPK</a>
+<a href="https://www.bkn.go.id/tag/pppk2022/" class="tag-cloud-link tag-link-152 tag-link-position-21" style="font-size: 1em;">#PPPK2022</a>
+<a href="https://www.bkn.go.id/tag/pppkguru/" class="tag-cloud-link tag-link-153 tag-link-position-22" style="font-size: 1em;">#PPPKGuru</a>
+<a href="https://www.bkn.go.id/tag/pppktenkes/" class="tag-cloud-link tag-link-155 tag-link-position-23" style="font-size: 1em;">#PPPKTenKes</a>
+<a href="https://www.bkn.go.id/tag/purnabaktibkn/" class="tag-cloud-link tag-link-145 tag-link-position-24" style="font-size: 1em;">#PurnabaktiBKN</a>
+<a href="https://www.bkn.go.id/tag/rdp2022/" class="tag-cloud-link tag-link-81 tag-link-position-25" style="font-size: 1em;">#RDP2022</a>
+<a href="https://www.bkn.go.id/tag/reformasibirokrasibkn/" class="tag-cloud-link tag-link-73 tag-link-position-26" style="font-size: 1em;">#ReformasiBirokrasiBKN</a>
+<a href="https://www.bkn.go.id/tag/reformasibkn/" class="tag-cloud-link tag-link-75 tag-link-position-27" style="font-size: 1em;">#ReformasiBKN</a>
+<a href="https://www.bkn.go.id/tag/sadarmanajemenasn/" class="tag-cloud-link tag-link-70 tag-link-position-28" style="font-size: 1em;">#SadarManajemenASN</a>
+<a href="https://www.bkn.go.id/tag/satudataasn/" class="tag-cloud-link tag-link-134 tag-link-position-29" style="font-size: 1em;">#SatuDataASN</a>
+<a href="https://www.bkn.go.id/tag/sekdin2022/" class="tag-cloud-link tag-link-67 tag-link-position-30" style="font-size: 1em;">#Sekdin2022</a>
+<a href="https://www.bkn.go.id/tag/seleksicasn2021/" class="tag-cloud-link tag-link-77 tag-link-position-31" style="font-size: 1em;">#SeleksiCASN2021</a>
+<a href="https://www.bkn.go.id/tag/strategipengawasanpengendalian/" class="tag-cloud-link tag-link-170 tag-link-position-32" style="font-size: 1em;">#strategipengawasanpengendalian</a>
+<a href="https://www.bkn.go.id/tag/vervalformasiasn/" class="tag-cloud-link tag-link-136 tag-link-position-33" style="font-size: 1em;">#VervalFormasiASN</a>
+<a href="https://www.bkn.go.id/tag/accsm/" class="tag-cloud-link tag-link-68 tag-link-position-34" style="font-size: 1em;">ACCSM</a>
+<a href="https://www.bkn.go.id/tag/bima/" class="tag-cloud-link tag-link-133 tag-link-position-35" style="font-size: 1em;">Bima</a>
+<a href="https://www.bkn.go.id/tag/hikmah/" class="tag-cloud-link tag-link-166 tag-link-position-36" style="font-size: 1em;">hikmah</a>
+<a href="https://www.bkn.go.id/tag/iduladha/" class="tag-cloud-link tag-link-164 tag-link-position-37" style="font-size: 1em;">iduladha</a>
+<a href="https://www.bkn.go.id/tag/kplb/" class="tag-cloud-link tag-link-172 tag-link-position-38" style="font-size: 1em;">KPLB</a>
+<a href="https://www.bkn.go.id/tag/kurban/" class="tag-cloud-link tag-link-165 tag-link-position-39" style="font-size: 1em;">kurban</a>
+<a href="https://www.bkn.go.id/tag/pelanggaran-netralitas/" class="tag-cloud-link tag-link-171 tag-link-position-40" style="font-size: 1em;">Pelanggaran Netralitas</a>
+<a href="https://www.bkn.go.id/tag/skk/" class="tag-cloud-link tag-link-156 tag-link-position-41" style="font-size: 1em;">SKK</a></div>
+</div></div>
+
+	
+</aside>
+
+
+	</div>
+
+
+			
+	<div class="post-pagination-wrap wpex-py-20 wpex-border-solid wpex-border-t wpex-border-main">
+
+		<ul class="post-pagination container wpex-flex wpex-justify-between wpex-list-none"><li class="post-prev wpex-flex-grow wpex-mr-10"><a href="https://www.bkn.go.id/kantor-pelayanan-bkn-di-wilayah-makassar-dapat-dukungan-hibah-dari-pemprov-maluku/" rel="prev"><span class="ticon ticon-angle-double-left wpex-mr-10" aria-hidden="true"></span><span class="screen-reader-text">previous post: </span>Kantor Pelayanan BKN di Wilayah Makassar dapat Dukungan Hibah dari Pemprov Maluku</a></li><li class="post-next wpex-flex-grow wpex-ml-10 wpex-text-right"><a href="https://www.bkn.go.id/lima-pegawai-bkn-memasuki-masa-pensiun-tmt-1-november-2024/" rel="next"><span class="screen-reader-text">next post: </span>Lima Pegawai BKN Memasuki Masa Pensiun TMT 1 November 2024<span class="ticon ticon-angle-double-right wpex-ml-10" aria-hidden="true"></span></a></li></ul>
+
+	</div>
+
+
+		</main>
+
+		</div>
+		
+
+<div class="wpex-clr footer-reveal">
+
+	
+	    <footer id="footer" class="site-footer wpex-bg-gray-A900 wpex-text-gray-500 bg-fixed-top" itemscope="itemscope" itemtype="https://schema.org/WPFooter">
+
+	        
+	        <div id="footer-inner" class="site-footer-inner container wpex-pt-40 wpex-clr">
+<div id="footer-widgets" class="wpex-row wpex-clr single-col-footer">
+
+	
+	
+		<div class="footer-box span_1_of_1 col col-1"><div id="text-2" class="footer-widget widget wpex-pb-40 wpex-clr widget_text"><div class="widget-title wpex-heading wpex-text-md wpex-mb-20">Badan Kepegawaian Negara</div>			<div class="textwidget"><p>Jl. Mayjen Sutoyo No. 12, Jakarta Timur, 13640 – Indonesia | Telp. 021-80882815 (Humas BKN) | Telp. 021-8093008 | Email: humas@bkn.go.id<br>
+Pengaduan/Konsultasi Kepegawaian: <a href="https://support-siasn.bkn.go.id/">support-siasn.bkn.go.id</a><br>
+Pengaduan/Konsultasi CASN: <a href="https://helpdesk-sscasn.bkn.go.id/">helpdesk-sscasn.bkn.go.id</a> | Email: helpdesk.casn@bkn.go.id</p>
+</div>
+		</div><div id="wpex_fontawesome_social_widget-2" class="footer-widget widget wpex-pb-40 wpex-clr widget_wpex_fontawesome_social_widget"><div class="wpex-fa-social-widget textcenter"><ul class="wpex-list-none wpex-m-0 wpex-last-mr-0 wpex-text-md" style="font-size:20px;"><li class="wpex-inline-block wpex-mb-5 wpex-mr-5"><a href="https://twitter.com/BKNgoid" title="Twitter" class="wpex-twitter wpex-social-btn wpex-social-btn-flat wpex-social-bg wpex-round" rel="noopener noreferrer" target="_blank" style="height:36px;width:36px;line-height:36px;"><span class="ticon ticon-twitter" aria-hidden="true"></span><span class="screen-reader-text">Twitter</span></a></li><li class="wpex-inline-block wpex-mb-5 wpex-mr-5"><a href="https://www.facebook.com/pages/Badan-Kepegawaian-Negara-BKN-Republik-Indonesia/383767665088202" title="Facebook" class="wpex-facebook wpex-social-btn wpex-social-btn-flat wpex-social-bg wpex-round" rel="noopener noreferrer" target="_blank" style="height:36px;width:36px;line-height:36px;"><span class="ticon ticon-facebook" aria-hidden="true"></span><span class="screen-reader-text">Facebook</span></a></li><li class="wpex-inline-block wpex-mb-5 wpex-mr-5"><a href="https://www.instagram.com/bkngoidofficial" title="Instagram" class="wpex-instagram wpex-social-btn wpex-social-btn-flat wpex-social-bg wpex-round" rel="noopener noreferrer" target="_blank" style="height:36px;width:36px;line-height:36px;"><span class="ticon ticon-instagram" aria-hidden="true"></span><span class="screen-reader-text">Instagram</span></a></li><li class="wpex-inline-block wpex-mb-5 wpex-mr-5"><a href="https://www.youtube.com/channel/UCBqlmOSbHwfNECbKzFHlqGg" title="Youtube" class="wpex-youtube wpex-social-btn wpex-social-btn-flat wpex-social-bg wpex-round" rel="noopener noreferrer" target="_blank" style="height:36px;width:36px;line-height:36px;"><span class="ticon ticon-youtube-play" aria-hidden="true"></span><span class="screen-reader-text">Youtube</span></a></li><li class="wpex-inline-block wpex-mb-5 wpex-mr-5"><a href="https://www.tiktok.com/@bkngoid" title="Tiktok" class="wpex-tiktok wpex-social-btn wpex-social-btn-flat wpex-social-bg wpex-round" rel="noopener noreferrer" target="_blank" style="height:36px;width:36px;line-height:36px;"><span class="ticon ticon-tiktok" aria-hidden="true"></span><span class="screen-reader-text">Tiktok</span></a></li></ul></div></div></div>
+
+	
+	
+	
+	
+	
+	
+	
+</div></div>
+
+	        
+	    </footer>
+
+	
+
+
+
+
+	<div id="footer-bottom" class="wpex-bg-gray-900 wpex-py-20 wpex-text-gray-500 wpex-text-sm wpex-text-center wpex-md-text-left">
+
+		
+		<div id="footer-bottom-inner" class="container"><div class="footer-bottom-flex wpex-md-flex wpex-md-justify-between wpex-md-items-center">
+<div id="copyright" class="wpex-last-mb-0">Hak cipta ©2021 <a href="https://www.bkn.go.id/">Badan Kepegawaian Negara.</a> - Semua hak cipta dilindungi.</div>
+<nav id="footer-bottom-menu" class="wpex-mt-10 wpex-md-mt-0" aria-label="Footer menu"><div class="menu-footer-bottom-container"><ul id="menu-footer-bottom" class="menu"><li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a href="https://www.bkn.go.id/peta-situs/">Peta Situs</a></li>
+<li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="https://www.bkn.go.id/hubungi-kami/">Hubungi Kami</a></li>
+</ul></div></nav></div></div>
+
+		
+	</div>
+
+
+
+</div>
+	</div>
+
+	
+</div>
+
+
+<div id="mobile-menu-search" class="wpex-hidden wpex-clr">
+	<form method="get" action="https://www.bkn.go.id/" class="mobile-menu-searchform">
+		<input type="search" name="s" autocomplete="off" placeholder="Search" aria-label="Search">
+						<button type="submit" class="searchform-submit" aria-label="Submit search"><span class="ticon ticon-search"></span></button>
+	</form>
+</div>
+
+
+<a href="#outer-wrap" id="site-scroll-top" class="wpex-block wpex-fixed wpex-round wpex-text-center wpex-box-content wpex-transition-all wpex-duration-200 wpex-bottom-0 wpex-right-0 wpex-mr-25 wpex-mb-25 wpex-no-underline wpex-bg-gray-100 wpex-text-gray-500 wpex-hover-bg-accent wpex-hover-text-white wpex-invisible wpex-opacity-0" data-scroll-speed="1000" data-scroll-offset="1024" data-scroll-easing="easeInOutExpo"><span class="ticon ticon-chevron-up" aria-hidden="true"></span><span class="screen-reader-text">Back To Top</span></a>
+
+
+
+		<script type="text/javascript">
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<div id="sticky-social-icons-container" class="design-sharp alignment-right with-animation hide-in-mobile">
+	<ul>
+		<li class="fab-fa-twitter" len="11"><a href="https://twitter.com/BKNgoid" target="_blank" class="fab-fa-twitter" aria-label="Twitter BKN" data-microtip-position="left" role="tooltip"><i class="fab fa-twitter"></i></a></li><li class="fab-fa-facebook-f" len="12"><a href="https://www.facebook.com/BKNgoid/" target="_blank" class="fab-fa-facebook-f" aria-label="Facebook BKN" data-microtip-position="left" role="tooltip"><i class="fab fa-facebook-f"></i></a></li><li class="fab-fa-youtube" len="11"><a href="https://www.youtube.com/channel/UCBqlmOSbHwfNECbKzFHlqGg" target="_blank" class="fab-fa-youtube" aria-label="Youtube BKN" data-microtip-position="left" role="tooltip"><i class="fab fa-youtube"></i></a></li><li class="fab-fa-instagram" len="13"><a href="https://www.instagram.com/bkngoidofficial" target="_blank" class="fab-fa-instagram" aria-label="Instagram BKN" data-microtip-position="left" role="tooltip"><i class="fab fa-instagram"></i></a></li><li class="fab-fa-tiktok" len="10"><a href="https://www.tiktok.com/@bkngoid" target="_blank" class="fab-fa-tiktok" aria-label="Tiktok BKN" data-microtip-position="left" role="tooltip"><i class="fab fa-tiktok"></i></a></li>	</ul>
+</div>
+
+<script id="tawk-script" type="text/javascript">
+var Tawk_API = Tawk_API || {};
+var Tawk_LoadStart=new Date();
+(function(){
+	var s1 = document.createElement( 'script' ),s0=document.getElementsByTagName( 'script' )[0];
+	s1.async = true;
+	s1.src = 'https://embed.tawk.to/66b042fc32dca6db2cb9fcee/1i4g8bau4';
+	s1.charset = 'UTF-8';
+	s1.setAttribute( 'crossorigin','*' );
+	s0.parentNode.insertBefore( s1, s0 );
+})();
+</script>
+
+<link rel="stylesheet" id="fancybox-css" href="https://www.bkn.go.id/BKN-RI/cfdf07b5f4/assets/lib/fancybox/jquery.fancybox.min.css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="https://www.bkn.go.id/modules/4b36101dcc/public/assets/css/rs6.css" media="all">
+<style id="rs-plugin-settings-inline-css">
+#rs-demo-id {}
+</style>
+<script src="https://www.bkn.go.id/modules/4b36101dcc/public/assets/js/rbtools.min.js" defer="" async="" id="tp-tools-js"></script>
+<script src="https://www.bkn.go.id/modules/4b36101dcc/public/assets/js/rs6.min.js" defer="" async="" id="revmin-js"></script>
+<script id="wp-statistics-tracker-js-extra">
+var WP_Statistics_Tracker_Object = {"requestUrl":"https:\/\/www.bkn.go.id\/wp-json\/wp-statistics\/v2","ajaxUrl":"https:\/\/www.bkn.go.id\/wp-admin\/admin-ajax.php","hitParams":{"wp_statistics_hit":1,"source_type":"post","source_id":118075,"search_query":"","signature":"ec00753d5389448d539c276cdd618885","endpoint":"hit"},"onlineParams":{"wp_statistics_hit":1,"source_type":"post","source_id":118075,"search_query":"","signature":"ec00753d5389448d539c276cdd618885","endpoint":"online"},"option":{"userOnline":"1","consentLevel":"disabled","dntEnabled":"","bypassAdBlockers":"","isWpConsentApiActive":true,"trackAnonymously":false,"isPreview":false},"jsCheckTime":"60000"};
+</script>
+<script src="https://www.bkn.go.id/modules/490116a10b/assets/js/tracker.js" id="wp-statistics-tracker-js"></script>
+<script src="https://www.bkn.go.id/BKN-RI/cfdf07b5f4/assets/js/dynamic/sidr.min.js" id="wpex-sidr-js"></script>
+<script src="https://www.bkn.go.id/BKN-RI/cfdf07b5f4/assets/js/core/hoverIntent.min.js" id="wpex-hoverintent-js"></script>
+<script src="https://www.bkn.go.id/BKN-RI/cfdf07b5f4/assets/js/core/supersubs.min.js" id="wpex-supersubs-js"></script>
+<script src="https://www.bkn.go.id/BKN-RI/cfdf07b5f4/assets/js/core/superfish.min.js" id="wpex-superfish-js"></script>
+<script src="https://www.bkn.go.id/BKN-RI/cfdf07b5f4/assets/js/core/jquery.easing.min.js" id="wpex-easing-js"></script>
+<script id="wpex-core-js-extra">
+var wpexLocalize = {"ajaxurl":"https:\/\/www.bkn.go.id\/wp-admin\/admin-ajax.php","isRTL":"","mainLayout":"full-width","menuSearchStyle":"drop_down","siteHeaderStyle":"one","megaMenuJS":"1","superfishDelay":"600","superfishSpeed":"fast","superfishSpeedOut":"fast","menuWidgetAccordion":"1","hasMobileMenu":"1","mobileMenuBreakpoint":"959","mobileMenuStyle":"sidr","mobileMenuToggleStyle":"icon_buttons","mobileMenuAriaLabel":"Mobile menu","mobileMenuCloseAriaLabel":"Close mobile menu","responsiveDataBreakpoints":{"tl":"1024px","tp":"959px","pl":"767px","pp":"479px"},"i18n":{"openSubmenu":"Open submenu of %s","closeSubmenu":"Close submenu of %s"},"retinaLogo":"https:\/\/www.bkn.go.id\/unggahan\/2023\/11\/1-Transparan-Logo.png","hasStickyHeader":"1","stickyheaderCustomLogo":"https:\/\/www.bkn.go.id\/unggahan\/2023\/11\/1-Transparan-Logo.png","stickyheaderCustomLogoRetina":"https:\/\/www.bkn.go.id\/unggahan\/2023\/11\/1-Transparan-Logo.png","stickyHeaderStyle":"shrink_animated","hasStickyMobileHeader":"","overlayHeaderStickyTop":"0","stickyHeaderBreakPoint":"960","hasStickyHeaderShrink":"1","hasStickyMobileHeaderShrink":"1","shrinkHeaderHeight":"70","sidrSource":"#site-navigation, #mobile-menu-search","sidrDisplace":"","sidrSide":"right","sidrBodyNoScroll":"","sidrSpeed":"300","customSelects":".widget_categories form,.widget_archive select,.vcex-form-shortcode select","scrollToHash":"1","scrollToHashTimeout":"500","localScrollTargets":"li.local-scroll a, a.local-scroll, .local-scroll-link, .local-scroll-link > a","localScrollUpdateHash":"","localScrollHighlight":"1","localScrollSpeed":"1000","localScrollEasing":"easeInOutExpo"};
+</script>
+<script src="https://www.bkn.go.id/BKN-RI/cfdf07b5f4/assets/js/total.min.js" id="wpex-core-js"></script>
+<script src="https://www.bkn.go.id/modules/1a60a0f6ed/dist/assets/js/googlesitekit-consent-mode-3d6495dceaebc28bcca3.js" id="googlesitekit-consent-mode-js"></script>
+<script id="wp-consent-api-js-extra">
+var consent_api = {"consent_type":"","waitfor_consent_hook":"","cookie_expiration":"30","cookie_prefix":"wp_consent"};
+</script>
+<script src="https://www.bkn.go.id/modules/5599e1b38c/assets/js/wp-consent-api.min.js" id="wp-consent-api-js"></script>
+<script src="https://www.bkn.go.id/modules/2797b8d905/inc/vcex/assets/js/vcex-shortcodes.min.js" id="vcex-shortcodes-js"></script>
+<script id="fancybox-js-extra">
+var wpexLightboxSettings = {"animationEffect":"fade","zoomOpacity":"auto","animationDuration":"366","transitionEffect":"fade","transitionDuration":"366","gutter":"50","loop":"","arrows":"1","infobar":"1","smallBtn":"auto","closeExisting":"1","buttons":["zoom","slideShow","close","thumbs"],"slideShow":{"autoStart":false,"speed":3000},"lang":"en","i18n":{"en":{"CLOSE":"Close","NEXT":"Next","PREV":"Previous","ERROR":"The requested content cannot be loaded. Please try again later.","PLAY_START":"Start slideshow","PLAY_STOP":"Pause slideshow","FULL_SCREEN":"Full screen","THUMBS":"Thumbnails","DOWNLOAD":"Download","SHARE":"Share","ZOOM":"Zoom"}},"thumbs":{"autoStart":false,"hideOnClose":true,"axis":"y"}};
+</script>
+<script src="https://www.bkn.go.id/BKN-RI/cfdf07b5f4/assets/lib/fancybox/jquery.fancybox.min.js" id="fancybox-js"></script>
+<script src="https://www.bkn.go.id/BKN-RI/cfdf07b5f4/assets/js/dynamic/wpex-social-share.min.js" id="wpex-social-share-js"></script>
+<script type="text/javascript">
+//<![CDATA[
+(function() {"use strict";
+function __IsDevToolOpen() {const widthDiff = window.outerWidth - window.innerWidth > 160;const heightDiff = window.outerHeight - window.innerHeight > 160;if (navigator.userAgent.match(/iPhone/i)) return false;if (!(heightDiff && widthDiff) && ((window.Firebug && window.Firebug.chrome && window.Firebug.chrome.isInitialized) || widthDiff || heightDiff)) {document.dispatchEvent(new Event('hmwp_is_devtool'));return true;}return false;}
+var __devToolCheckInterval = setInterval(__IsDevToolOpen, 500);
+function __disableOpen404() {document.documentElement.remove();}
+function __showError(message) {var div = document.getElementById('disable_msg');if (message !== '' && div && (!div.style.display || div.style.display == 'none')) {div.innerHTML = message;div.style.display = 'block';setTimeout(function() {div.style.display = 'none';}, 1000);}}
+function __disableEventListener(element, eventNames, message) {var events = eventNames.split(' ');events.forEach(function(event) {element.addEventListener(event, function(e) {e.preventDefault();if (message !== '') __showError(message);});});}
+function __returnFalse() {return false;}
+document.addEventListener("contextmenu", function(event) {if (event.keyCode === 123) {event.preventDefault();__showError('Inspect Element is disabled!');return false;}});document.addEventListener("keydown", function(event) {
+if (event.keyCode === 123 || (event.ctrlKey && event.shiftKey && event.keyCode === 67) || ((event.ctrlKey || event.metaKey) && event.shiftKey && event.keyCode === 73) || (event.ctrlKey && event.shiftKey && event.keyCode === 75) || (event.ctrlKey && event.shiftKey && event.keyCode === 74) || (event.keyCode === 83 && (event.ctrlKey || event.metaKey)) || (event.keyCode === 67 && event.metaKey)) {event.preventDefault();__showError('Inspect Element is disabled!');return false;}if ((event.ctrlKey || event.metaKey) && event.keyCode === 85) {event.preventDefault();__showError('View Source is disabled!');return false;}});
+document.addEventListener("contextmenu", function(event) {event.preventDefault();return false;});
+document.querySelectorAll('img').forEach(function(img) {img.setAttribute('draggable', false);});document.ondragstart = __returnFalse;__disableEventListener(document, 'drag drop', 'Drag-n-Drop is disabled!');})();
+//]]>
+</script>
+<style>#disable_msg{display:none;min-width:250px;margin-left:-125px;background-color:#333;color:#fff;text-align:center;border-radius:2px;padding:16px;position:fixed;z-index:999;left:50%;bottom:30px;font-size:17px}}</style>
+<div id="disable_msg"></div>
+
+<div class="wpex-sidr-overlay wpex-hidden"></div><div id="sidr-main" class="sidr right" style="transition: right 0.3s;"><div class="sidr-class-wpex-close"><a href="#" aria-expanded="false" role="button" aria-label="Close mobile menu">×</a></div><div class="sidr-inner">
+
+			
+				<ul id="sidr-id-menu-main-menu" class="sidr-class-dropdown-menu sidr-class-main-navigation-ul sidr-class-sf-menu sidr-class-sf-js-enabled"><li id="sidr-id-menu-item-81" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-home sidr-class-menu-item-81"><a href="https://www.bkn.go.id/"><span class="sidr-class-link-inner">Beranda</span></a></li>
+<li id="sidr-id-menu-item-31" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-has-children sidr-class-dropdown sidr-class-menu-item-31"><a href="https://www.bkn.go.id/profil/" class="sidr-class-sf-with-ul"><span class="sidr-class-link-inner">Profil <span class="sidr-class-nav-arrow sidr-class-top-level ticon ticon-angle-down" aria-hidden="true"></span></span><button class="wpex-open-submenu" aria-haspopup="true" aria-expanded="false" aria-label="Open submenu of Profil "><span class="ticon ticon-angle-down" aria-hidden="true"></span></button></a>
+<ul class="sidr-class-sub-menu">
+	<li id="sidr-id-menu-item-115429" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-115429"><a href="https://www.bkn.go.id/profil/logo-bkn/"><span class="sidr-class-link-inner">Logo BKN</span></a></li>
+	<li id="sidr-id-menu-item-521" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-521"><a href="https://www.bkn.go.id/profil/visi-dan-misi-bkn/"><span class="sidr-class-link-inner">Visi dan Misi BKN</span></a></li>
+	<li id="sidr-id-menu-item-561" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-561"><a href="https://www.bkn.go.id/profil/sejarah-bkn/"><span class="sidr-class-link-inner">Sejarah BKN</span></a></li>
+	<li id="sidr-id-menu-item-755" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-755"><a href="https://www.bkn.go.id/profil/struktur-organisasi-bkn/"><span class="sidr-class-link-inner">Struktur Organisasi BKN</span></a></li>
+	<li id="sidr-id-menu-item-752" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-752"><a href="https://www.bkn.go.id/profil/profil-pejabat-pimpinan-tinggi-bkn/"><span class="sidr-class-link-inner">Profil Pejabat Pimpinan Tinggi BKN</span></a></li>
+	<li id="sidr-id-menu-item-110176" class="sidr-class-menu-item sidr-class-menu-item-type-custom sidr-class-menu-item-object-custom sidr-class-menu-item-110176"><a href="https://elhkpn.kpk.go.id/portal/user/pengumuman_lhkpn/YURGVE16RkhNbEoxVDFSWVYxRmFXSEpMVlRsUVNUVjBSM00zTjAxQlZYRXdObUozUW14eFVYcHRSakJXWkZOblNYTjBLMnd3YkZCVE9HSjNRVXhEVkE9PQ=="><span class="sidr-class-link-inner">e-LHKPN Pejabat Pimpinan Tinggi</span></a></li>
+	<li id="sidr-id-menu-item-754" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-754"><a href="https://www.bkn.go.id/profil/hymne-bkn/"><span class="sidr-class-link-inner">Hymne BKN</span></a></li>
+	<li id="sidr-id-menu-item-753" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-753"><a href="https://www.bkn.go.id/profil/mars-bkn/"><span class="sidr-class-link-inner">Mars BKN</span></a></li>
+	<li id="sidr-id-menu-item-847" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-847"><a href="https://www.bkn.go.id/profil/reformasi-birokrasi/"><span class="sidr-class-link-inner">Reformasi Birokrasi</span></a></li>
+	<li id="sidr-id-menu-item-868" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-868"><a href="https://www.bkn.go.id/profil/kantor-kantor-bkn/"><span class="sidr-class-link-inner">Kantor-Kantor BKN</span></a></li>
+	<li id="sidr-id-menu-item-893" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-893"><a href="https://www.bkn.go.id/profil/maklumat-pelayanan/"><span class="sidr-class-link-inner">Maklumat Pelayanan</span></a></li>
+	<li id="sidr-id-menu-item-109989" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-109989"><a href="https://www.bkn.go.id/publikasi/panduan-perilaku-core-value-asn/"><span class="sidr-class-link-inner">Panduan Perilaku Core Value ASN</span></a></li>
+</ul>
+</li>
+<li id="sidr-id-menu-item-30" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-has-children sidr-class-dropdown sidr-class-menu-item-30"><a href="https://www.bkn.go.id/publikasi/" title="Publikasi" class="sidr-class-sf-with-ul"><span class="sidr-class-link-inner">Publikasi <span class="sidr-class-nav-arrow sidr-class-top-level ticon ticon-angle-down" aria-hidden="true"></span></span><button class="wpex-open-submenu" aria-haspopup="true" aria-expanded="false" aria-label="Open submenu of Publikasi "><span class="ticon ticon-angle-down" aria-hidden="true"></span></button></a>
+<ul class="sidr-class-sub-menu">
+	<li id="sidr-id-menu-item-526" class="sidr-class-menu-item sidr-class-menu-item-type-taxonomy sidr-class-menu-item-object-category sidr-class-current-post-ancestor sidr-class-current-menu-parent sidr-class-current-post-parent sidr-class-menu-item-526"><a href="https://www.bkn.go.id/category/publikasi/berita/"><span class="sidr-class-link-inner">Berita</span></a></li>
+	<li id="sidr-id-menu-item-1091" class="sidr-class-menu-item sidr-class-menu-item-type-taxonomy sidr-class-menu-item-object-category sidr-class-menu-item-1091"><a href="https://www.bkn.go.id/category/publikasi/siaran-pers/"><span class="sidr-class-link-inner">Siaran Pers</span></a></li>
+	<li id="sidr-id-menu-item-1090" class="sidr-class-menu-item sidr-class-menu-item-type-taxonomy sidr-class-menu-item-object-category sidr-class-menu-item-1090"><a href="https://www.bkn.go.id/category/publikasi/pengumuman/"><span class="sidr-class-link-inner">Pengumuman</span></a></li>
+	<li id="sidr-id-menu-item-109205" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-109205"><a href="https://www.bkn.go.id/publikasi/statistik-asn/"><span class="sidr-class-link-inner">Statistik ASN</span></a></li>
+	<li id="sidr-id-menu-item-108838" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-has-children sidr-class-dropdown sidr-class-menu-item-108838"><a href="https://www.bkn.go.id/publikasi/akuntabilitas-kinerja/" class="sidr-class-sf-with-ul"><span class="sidr-class-link-inner">Akuntabilitas Kinerja<span class="sidr-class-nav-arrow sidr-class-second-level ticon ticon-angle-right" aria-hidden="true"></span></span><button class="wpex-open-submenu" aria-haspopup="true" aria-expanded="false" aria-label="Open submenu of Akuntabilitas Kinerja"><span class="ticon ticon-angle-down" aria-hidden="true"></span></button></a>
+	<ul class="sidr-class-sub-menu">
+		<li id="sidr-id-menu-item-108837" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-108837"><a href="https://www.bkn.go.id/publikasi/akuntabilitas-kinerja/rencana-strategis-bkn/"><span class="sidr-class-link-inner">Rencana Strategis BKN</span></a></li>
+		<li id="sidr-id-menu-item-108836" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-108836"><a href="https://www.bkn.go.id/publikasi/akuntabilitas-kinerja/rencana-kerja-bkn/"><span class="sidr-class-link-inner">Rencana Kerja BKN</span></a></li>
+		<li id="sidr-id-menu-item-114624" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-114624"><a href="https://www.bkn.go.id/publikasi/akuntabilitas-kinerja/program-kerja-bkn/"><span class="sidr-class-link-inner">Program Kerja BKN</span></a></li>
+		<li id="sidr-id-menu-item-108695" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-108695"><a href="https://www.bkn.go.id/publikasi/akuntabilitas-kinerja/laporan-akuntabilitas-kinerja-instansi-pemerintah-bkn/"><span class="sidr-class-link-inner">Laporan Akuntabilitas Kinerja Instansi Pemerintah BKN</span></a></li>
+		<li id="sidr-id-menu-item-111786" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-111786"><a href="https://www.bkn.go.id/publikasi/laporan-bmn-bkn/"><span class="sidr-class-link-inner">Laporan BMN BKN</span></a></li>
+		<li id="sidr-id-menu-item-118007" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-118007"><a href="https://www.bkn.go.id/informasi-pengadaan-barang-dan-jasa/"><span class="sidr-class-link-inner">Informasi Pengadaan Barang dan Jasa</span></a></li>
+		<li id="sidr-id-menu-item-108680" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-108680"><a href="https://www.bkn.go.id/publikasi/akuntabilitas-kinerja/laporan-keuangan-bkn/"><span class="sidr-class-link-inner">Laporan Keuangan BKN</span></a></li>
+		<li id="sidr-id-menu-item-111785" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-111785"><a href="https://www.bkn.go.id/publikasi/akuntabilitas-kinerja/opini-bpk/"><span class="sidr-class-link-inner">Opini BPK</span></a></li>
+		<li id="sidr-id-menu-item-114465" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-114465"><a href="https://www.bkn.go.id/publikasi/akuntabilitas-kinerja/pelaporan-lhkpn-lhkasn-spt-bkn/"><span class="sidr-class-link-inner">Pelaporan LHKPN/LHKASN &amp; SPT BKN</span></a></li>
+		<li id="sidr-id-menu-item-108854" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-108854"><a href="https://www.bkn.go.id/publikasi/akuntabilitas-kinerja/nilai-indeks-kepuasan-masyarakat/"><span class="sidr-class-link-inner">Nilai Indeks Kepuasan Masyarakat</span></a></li>
+	</ul>
+</li>
+	<li id="sidr-id-menu-item-108613" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-108613"><a href="https://www.bkn.go.id/publikasi/nota-kesepahaman-mou-dan-perjanjian-kerja-sama/" title="Nota Kesepahaman (MOU) dan Perjanjian Kerja Sama (PKS)"><span class="sidr-class-link-inner">MOU dan PKS</span></a></li>
+	<li id="sidr-id-menu-item-527" class="sidr-class-menu-item sidr-class-menu-item-type-taxonomy sidr-class-menu-item-object-category sidr-class-menu-item-527"><a href="https://www.bkn.go.id/category/publikasi/blog-kepegawaian/"><span class="sidr-class-link-inner">Blog Kepegawaian</span></a></li>
+	<li id="sidr-id-menu-item-1009" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-1009"><a href="https://www.bkn.go.id/publikasi/e-library/" title="e-Library BKN"><span class="sidr-class-link-inner">e-Library</span></a></li>
+	<li id="sidr-id-menu-item-1092" class="sidr-class-menu-item sidr-class-menu-item-type-taxonomy sidr-class-menu-item-object-category sidr-class-menu-item-1092"><a href="https://www.bkn.go.id/category/publikasi/berita-duka/"><span class="sidr-class-link-inner">Berita Duka</span></a></li>
+	<li id="sidr-id-menu-item-117643" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-117643"><a href="https://www.bkn.go.id/agenda-kegiatan/"><span class="sidr-class-link-inner">Agenda Kegiatan</span></a></li>
+</ul>
+</li>
+<li id="sidr-id-menu-item-29" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-29"><a href="https://www.bkn.go.id/layanan/" title="Layanan BKN"><span class="sidr-class-link-inner">Layanan</span></a></li>
+<li id="sidr-id-menu-item-3113" class="sidr-class-menu-item sidr-class-menu-item-type-custom sidr-class-menu-item-object-custom sidr-class-menu-item-has-children sidr-class-dropdown sidr-class-menu-item-3113"><a href="/regulasi" class="sidr-class-sf-with-ul"><span class="sidr-class-link-inner">Regulasi <span class="sidr-class-nav-arrow sidr-class-top-level ticon ticon-angle-down" aria-hidden="true"></span></span><button class="wpex-open-submenu" aria-haspopup="true" aria-expanded="false" aria-label="Open submenu of Regulasi "><span class="ticon ticon-angle-down" aria-hidden="true"></span></button></a>
+<ul class="sidr-class-sub-menu">
+	<li id="sidr-id-menu-item-1679" class="sidr-class-menu-item sidr-class-menu-item-type-custom sidr-class-menu-item-object-custom sidr-class-menu-item-1679"><a target="_blank" href="https://jdih.bkn.go.id/" title="Jaringan Dokumentasi dan Informasi Hukum"><span class="sidr-class-link-inner">JDIH BKN</span></a></li>
+</ul>
+</li>
+<li id="sidr-id-menu-item-111539" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-111539"><a href="https://www.bkn.go.id/ppid-bkn/"><span class="sidr-class-link-inner">PPID BKN</span></a></li>
+<li id="sidr-id-menu-item-1846" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-has-children sidr-class-dropdown sidr-class-menu-item-1846"><a href="https://www.bkn.go.id/hubungi-kami/" class="sidr-class-sf-with-ul"><span class="sidr-class-link-inner">Hubungi Kami <span class="sidr-class-nav-arrow sidr-class-top-level ticon ticon-angle-down" aria-hidden="true"></span></span><button class="wpex-open-submenu" aria-haspopup="true" aria-expanded="false" aria-label="Open submenu of Hubungi Kami "><span class="ticon ticon-angle-down" aria-hidden="true"></span></button></a>
+<ul class="sidr-class-sub-menu">
+	<li id="sidr-id-menu-item-1848" class="sidr-class-menu-item sidr-class-menu-item-type-custom sidr-class-menu-item-object-custom sidr-class-menu-item-1848"><a target="_blank" href="https://www.lapor.go.id/instansi/badan-kepegawaian-negara"><span class="sidr-class-link-inner">Lapor BKN</span></a></li>
+	<li id="sidr-id-menu-item-111935" class="sidr-class-menu-item sidr-class-menu-item-type-custom sidr-class-menu-item-object-custom sidr-class-menu-item-111935"><a href="https://support-siasn.bkn.go.id/"><span class="sidr-class-link-inner">Helpdesk SIASN</span></a></li>
+	<li id="sidr-id-menu-item-114157" class="sidr-class-menu-item sidr-class-menu-item-type-custom sidr-class-menu-item-object-custom sidr-class-menu-item-114157"><a href="https://sites.google.com/view/surveiikmbkn?usp=sharing"><span class="sidr-class-link-inner">Survei Kepuasan Masyarakat</span></a></li>
+</ul>
+</li>
+<li class="sidr-class-search-toggle-li sidr-class-menu-item sidr-class-wpex-menu-extra"><a href="#" class="sidr-class-site-search-toggle sidr-class-search-dropdown-toggle" role="button" aria-expanded="false" aria-label="Search"><span class="sidr-class-link-inner"><span class="sidr-class-wpex-menu-search-text">Search</span><span class="sidr-class-wpex-menu-search-icon ticon ticon-search" aria-hidden="true"></span></span></a></li></ul>
+			
+		
+	<form method="get" action="https://www.bkn.go.id/" class="sidr-class-mobile-menu-searchform">
+		<input type="search" name="s" autocomplete="off" placeholder="Search" aria-label="Search">
+						<button type="submit" class="sidr-class-searchform-submit" aria-label="Submit search"><span class="ticon ticon-search"></span></button>
+	</form>
+</div></div><script async="" charset="UTF-8" src="https://embed.tawk.to/_s/v4/app/67354992019/languages/id.js"></script></body></html>
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Record-ID: <urn:uuid:f44d74ed-0ae7-4341-a065-68f9db9635c6>
+WARC-Target-URI: urn:uuid:metadata-record
+WARC-Date: 2024-12-17T19:15:02Z
+WARC-Concurrent-To: <urn:uuid:5b324876-85a0-4d2c-93e3-a07ca5a8f942>
+WARC-Payload-Digest: sha1:EAXB7I437UQ6KXSSLNJDVVJMT6HPDBER
+WARC-Block-Digest: sha1:EAXB7I437UQ6KXSSLNJDVVJMT6HPDBER
+Content-Type: application/warc-fields
+Content-Length: 161
+
+URL: https://www.bkn.go.id/bkn-telah-akreditasi-14-lembaga-penyelenggara-penilaian-kompetensi-tahun-2024/
+Timestamp: 2024-12-17T19:15:02Z
+Content-Length: 130354
+
+
