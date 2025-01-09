@@ -9,7 +9,7 @@ def compress_pdfs_to_zip(pdf_dir, description, output_dir):
         os.makedirs(output_dir, exist_ok=True)
 
         # Generate ZIP file name
-        zip_file_name = f"Apollo_{description}_pdf_files.zip"
+        zip_file_name = f"{description}.zip"
         zip_path = os.path.join(output_dir, zip_file_name)
         
         # Create the ZIP file and add PDFs
@@ -32,7 +32,7 @@ def compress_warcs_to_warcgz(warc_dir, description, output_dir):
         os.makedirs(output_dir, exist_ok=True)
 
         # Generate output file name
-        gz_file_name = f"Apollo_{description}_warc_combined.warc.gz"
+        gz_file_name = f"{description}.warc.gz"
         gz_path = os.path.join(output_dir, gz_file_name)
 
         with open(gz_path, 'wb') as output_file:
